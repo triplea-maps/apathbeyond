@@ -1,0 +1,4 @@
+map_name: apathbeyond
+games:
+- {game_name: A Path Beyond, file_name: apathbeyond.xml}
+version: 0

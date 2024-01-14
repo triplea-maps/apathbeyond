@@ -1,0 +1,2096 @@
+<?xml version="1.0"?>
+<!DOCTYPE game SYSTEM "game.dtd">
+<game>
+  <info name="A Path Beyond" version="0.1"/>
+  <loader javaClass="games.strategy.triplea.TripleA"/>
+  <triplea minimumVersion="1.6.1"/>
+  <map>
+  <!-- Territory Definitions -->
+<territory name="Arifice"/>
+<territory name="Arkangsk"/>
+<territory name="Barat"/>
+<territory name="Bergen"/>
+<territory name="Bimbledock"/>
+<territory name="Binche"/>
+<territory name="Biopolis"/>
+<territory name="Brananaville"/>
+<territory name="Brandge"/>
+<territory name="Braunker"/>
+<territory name="Brenha"/>
+<territory name="Brenn"/>
+<territory name="Brenny"/>
+<territory name="Brezdzev"/>
+<territory name="Bummstead"/>
+<territory name="Caspik"/>
+<territory name="Centa"/>
+<territory name="Charforte"/>
+<territory name="Chauff"/>
+<territory name="Chent"/>
+<territory name="Chesend"/>
+<territory name="Chonkille"/>
+<territory name="Chunnel Stack"/>
+<territory name="Clitopolis"/>
+<territory name="Corsilo"/>
+<territory name="Dbrak"/>
+<territory name="Densig"/>
+<territory name="Derrick"/>
+<territory name="Derry"/>
+<territory name="Dherka"/>
+<territory name="Dint"/>
+<territory name="Domita"/>
+<territory name="Donger"/>
+<territory name="Draince"/>
+<territory name="Dubain"/>
+<territory name="East Brompton"/>
+<territory name="East Russia"/>
+<territory name="Eastern Elderbutte"/>
+<territory name="Eastra"/>
+<territory name="Essex"/>
+<territory name="Everd"/>
+<territory name="Ferg"/>
+<territory name="Feul"/>
+<territory name="Flatsville"/>
+<territory name="Frakesville"/>
+<territory name="Freepton"/>
+<territory name="Fremme"/>
+<territory name="Frokbert"/>
+<territory name="Gadonk"/>
+<territory name="Gherd"/>
+<territory name="Ghoast"/>
+<territory name="Ghren"/>
+<territory name="Glornigh"/>
+<territory name="Gopnik"/>
+<territory name="Gordoba"/>
+<territory name="Gothia"/>
+<territory name="Grao"/>
+<territory name="Grodnik"/>
+<territory name="Harbor Downs"/>
+<territory name="Harragh"/>
+<territory name="Heldsville"/>
+<territory name="Herfbert"/>
+<territory name="Horn"/>
+<territory name="Inda"/>
+<territory name="Jain"/>
+<territory name="Jankum"/>
+<territory name="Jawn"/>
+<territory name="Judic"/>
+<territory name="Kent"/>
+<territory name="Kernar"/>
+<territory name="Kharak"/>
+<territory name="Krang"/>
+<territory name="Larpp"/>
+<territory name="London"/>
+<territory name="Manchester"/>
+<territory name="Marksberg"/>
+<territory name="Mekt"/>
+<territory name="Mikkra"/>
+<territory name="Moscow"/>
+<territory name="Murmansk"/>
+<territory name="Mutta"/>
+<territory name="Narne"/>
+<territory name="Nevra"/>
+<territory name="Newfield"/>
+<territory name="Noep"/>
+<territory name="North Russia"/>
+<territory name="Northex"/>
+<territory name="Octagone"/>
+<territory name="Odessa"/>
+<territory name="Oklahoma"/>
+<territory name="Oumik"/>
+<territory name="Pawnt"/>
+<territory name="Petrof"/>
+<territory name="Philas"/>
+<territory name="Pickleton"/>
+<territory name="Platzberg"/>
+<territory name="Plopp"/>
+<territory name="Poliso"/>
+<territory name="Pomville"/>
+<territory name="Ponin"/>
+<territory name="Portochang"/>
+<territory name="Prain"/>
+<territory name="Puzkel"/>
+<territory name="Rakker"/>
+<territory name="Redditon"/>
+<territory name="Renga"/>
+<territory name="Ritnik"/>
+<territory name="Schindel"/>
+<territory name="Sinai"/>
+<territory name="Slavbert"/>
+<territory name="Slenk"/>
+<territory name="Slexual"/>
+<territory name="South Russia"/>
+<territory name="Southumberland"/>
+<territory name="Spergbert"/>
+<territory name="Spiegel"/>
+<territory name="Sraya"/>
+<territory name="Stankton"/>
+<territory name="Suffolk"/>
+<territory name="Suttax"/>
+<territory name="Szymy"/>
+<territory name="Tainte"/>
+<territory name="Tertle"/>
+<territory name="Tesk"/>
+<territory name="Theod"/>
+<territory name="Therak"/>
+<territory name="Tippe"/>
+<territory name="Tippton"/>
+<territory name="Townbergville"/>
+<territory name="Tran"/>
+<territory name="Trangle"/>
+<territory name="Treltz"/>
+<territory name="Trenton"/>
+<territory name="Twenkbert"/>
+<territory name="Tzeba"/>
+<territory name="Ukraine"/>
+<territory name="Uralsk"/>
+<territory name="Urkel"/>
+<territory name="Useer"/>
+<territory name="Vergen"/>
+<territory name="Waifu"/>
+<territory name="Warch"/>
+<territory name="Werke"/>
+<territory name="Wessex"/>
+<territory name="West Russia"/>
+<territory name="Yain"/>
+<territory name="Yara"/>
+<territory name="Yom"/>
+<territory name="Zyanthos"/>
+<territory name="sz 1" water="true"/>
+<territory name="sz 2" water="true"/>
+<territory name="sz 3" water="true"/>
+<territory name="sz 4" water="true"/>
+<territory name="sz 5" water="true"/>
+<territory name="sz 6" water="true"/>
+<territory name="sz 7" water="true"/>
+<territory name="sz 8" water="true"/>
+<territory name="sz 9" water="true"/>
+<territory name="sz 10" water="true"/>
+<territory name="sz 11" water="true"/>
+<territory name="sz 12" water="true"/>
+<territory name="sz 13" water="true"/>
+<territory name="sz 14" water="true"/>
+<territory name="sz 15" water="true"/>
+<territory name="sz 16" water="true"/>
+<territory name="sz 17" water="true"/>
+<territory name="sz 18" water="true"/>
+<territory name="sz 19" water="true"/>
+<territory name="sz 20" water="true"/>
+<territory name="sz 21" water="true"/>
+<territory name="sz 22" water="true"/>
+<territory name="sz 23" water="true"/>
+<territory name="sz 24" water="true"/>
+<territory name="sz 25" water="true"/>
+<territory name="sz 26" water="true"/>
+<territory name="sz 27" water="true"/>
+<territory name="sz 28" water="true"/>
+<territory name="sz 29" water="true"/>
+<territory name="sz 30" water="true"/>
+<territory name="sz 31" water="true"/>
+<territory name="sz 32" water="true"/>
+<territory name="sz 33" water="true"/>
+<territory name="sz 34" water="true"/>
+<territory name="sz 35" water="true"/>
+<territory name="sz 36" water="true"/>
+<territory name="sz 37" water="true"/>
+<territory name="sz 38" water="true"/>
+<territory name="sz 39" water="true"/>
+<territory name="sz 40" water="true"/>
+<territory name="sz 41" water="true"/>
+
+<!-- Territory Connections -->
+<connection t1="Arifice" t2="Bimbledock"/>
+<connection t1="Arifice" t2="Slexual"/>
+<connection t1="Arifice" t2="Stankton"/>
+<connection t1="Arifice" t2="Twenkbert"/>
+<connection t1="Arkangsk" t2="Brezdzev"/>
+<connection t1="Arkangsk" t2="Chauff"/>
+<connection t1="Arkangsk" t2="Gadonk"/>
+<connection t1="Arkangsk" t2="Gordoba"/>
+<connection t1="Arkangsk" t2="Murmansk"/>
+<connection t1="Arkangsk" t2="Petrof"/>
+<connection t1="Arkangsk" t2="Ritnik"/>
+<connection t1="Barat" t2="Nevra"/>
+<connection t1="Barat" t2="Tesk"/>
+<connection t1="Barat" t2="Tran"/>
+<connection t1="Barat" t2="Yom"/>
+<connection t1="Barat" t2="sz 12"/>
+<connection t1="Bergen" t2="Centa"/>
+<connection t1="Bergen" t2="Eastra"/>
+<connection t1="Bergen" t2="sz 12"/>
+<connection t1="Bergen" t2="sz 13"/>
+<connection t1="Bergen" t2="sz 15"/>
+<connection t1="Bimbledock" t2="Stankton"/>
+<connection t1="Bimbledock" t2="Townbergville"/>
+<connection t1="Bimbledock" t2="Urkel"/>
+<connection t1="Bimbledock" t2="sz 37"/>
+<connection t1="Binche" t2="East Brompton"/>
+<connection t1="Binche" t2="Heldsville"/>
+<connection t1="Binche" t2="Northex"/>
+<connection t1="Binche" t2="sz 41"/>
+<connection t1="Biopolis" t2="Gherd"/>
+<connection t1="Biopolis" t2="Kharak"/>
+<connection t1="Biopolis" t2="Mutta"/>
+<connection t1="Biopolis" t2="Philas"/>
+<connection t1="Biopolis" t2="Therak"/>
+<connection t1="Biopolis" t2="Warch"/>
+<connection t1="Brananaville" t2="Krang"/>
+<connection t1="Brananaville" t2="Slexual"/>
+<connection t1="Brananaville" t2="sz 21"/>
+<connection t1="Brananaville" t2="sz 22"/>
+<connection t1="Brandge" t2="Charforte"/>
+<connection t1="Brandge" t2="Corsilo"/>
+<connection t1="Brandge" t2="Pawnt"/>
+<connection t1="Brandge" t2="Yain"/>
+<connection t1="Brandge" t2="sz 34"/>
+<connection t1="Braunker" t2="Charforte"/>
+<connection t1="Braunker" t2="Chauff"/>
+<connection t1="Braunker" t2="Pawnt"/>
+<connection t1="Braunker" t2="Platzberg"/>
+<connection t1="Braunker" t2="Ritnik"/>
+<connection t1="Brenha" t2="Dint"/>
+<connection t1="Brenha" t2="Tesk"/>
+<connection t1="Brenha" t2="sz 10"/>
+<connection t1="Brenha" t2="sz 11"/>
+<connection t1="Brenn" t2="Newfield"/>
+<connection t1="Brenn" t2="Oumik"/>
+<connection t1="Brenn" t2="Pomville"/>
+<connection t1="Brenn" t2="Prain"/>
+<connection t1="Brenn" t2="Vergen"/>
+<connection t1="Brenn" t2="sz 26"/>
+<connection t1="Brenn" t2="sz 27"/>
+<connection t1="Brenny" t2="Charforte"/>
+<connection t1="Brenny" t2="Chent"/>
+<connection t1="Brenny" t2="Platzberg"/>
+<connection t1="Brenny" t2="sz 28"/>
+<connection t1="Brezdzev" t2="Gordoba"/>
+<connection t1="Brezdzev" t2="South Russia"/>
+<connection t1="Brezdzev" t2="sz 30"/>
+<connection t1="Bummstead" t2="Chonkille"/>
+<connection t1="Bummstead" t2="Frakesville"/>
+<connection t1="Bummstead" t2="Slexual"/>
+<connection t1="Bummstead" t2="Tainte"/>
+<connection t1="Bummstead" t2="Trangle"/>
+<connection t1="Bummstead" t2="Urkel"/>
+<connection t1="Caspik" t2="Dubain"/>
+<connection t1="Caspik" t2="Ghoast"/>
+<connection t1="Caspik" t2="Gordoba"/>
+<connection t1="Caspik" t2="Ritnik"/>
+<connection t1="Caspik" t2="Ukraine"/>
+<connection t1="Caspik" t2="Uralsk"/>
+<connection t1="Caspik" t2="sz 31"/>
+<connection t1="Centa" t2="Eastra"/>
+<connection t1="Centa" t2="Larpp"/>
+<connection t1="Centa" t2="Nevra"/>
+<connection t1="Centa" t2="sz 13"/>
+<connection t1="Charforte" t2="Chent"/>
+<connection t1="Charforte" t2="Pawnt"/>
+<connection t1="Charforte" t2="Platzberg"/>
+<connection t1="Charforte" t2="Poliso"/>
+<connection t1="Charforte" t2="Yain"/>
+<connection t1="Chauff" t2="Gadonk"/>
+<connection t1="Chauff" t2="Platzberg"/>
+<connection t1="Chauff" t2="Ritnik"/>
+<connection t1="Chent" t2="Draince"/>
+<connection t1="Chent" t2="Harragh"/>
+<connection t1="Chent" t2="Poliso"/>
+<connection t1="Chent" t2="sz 28"/>
+<connection t1="Chesend" t2="Dbrak"/>
+<connection t1="Chesend" t2="Sraya"/>
+<connection t1="Chesend" t2="Yara"/>
+<connection t1="Chesend" t2="Zyanthos"/>
+<connection t1="Chesend" t2="sz 33"/>
+<connection t1="Chonkille" t2="Krang"/>
+<connection t1="Chonkille" t2="Octagone"/>
+<connection t1="Chonkille" t2="Slexual"/>
+<connection t1="Chonkille" t2="Tainte"/>
+<connection t1="Chonkille" t2="sz 23"/>
+<connection t1="Chunnel Stack" t2="Flatsville"/>
+<connection t1="Chunnel Stack" t2="Harbor Downs"/>
+<connection t1="Chunnel Stack" t2="Pickleton"/>
+<connection t1="Chunnel Stack" t2="Pomville"/>
+<connection t1="Chunnel Stack" t2="Tainte"/>
+<connection t1="Chunnel Stack" t2="Trenton"/>
+<connection t1="Clitopolis" t2="Horn"/>
+<connection t1="Clitopolis" t2="Inda"/>
+<connection t1="Clitopolis" t2="Waifu"/>
+<connection t1="Clitopolis" t2="sz 9"/>
+<connection t1="Clitopolis" t2="sz 10"/>
+<connection t1="Corsilo" t2="Yain"/>
+<connection t1="Corsilo" t2="sz 34"/>
+<connection t1="Corsilo" t2="sz 36"/>
+<connection t1="Dbrak" t2="Sinai"/>
+<connection t1="Dbrak" t2="Sraya"/>
+<connection t1="Dbrak" t2="Yara"/>
+<connection t1="Dbrak" t2="sz 38"/>
+<connection t1="Densig" t2="Mikkra"/>
+<connection t1="Densig" t2="Mutta"/>
+<connection t1="Densig" t2="Useer"/>
+<connection t1="Densig" t2="sz 32"/>
+<connection t1="Derrick" t2="Harragh"/>
+<connection t1="Derrick" t2="Oumik"/>
+<connection t1="Derrick" t2="sz 27"/>
+<connection t1="Derrick" t2="sz 28"/>
+<connection t1="Derry" t2="East Brompton"/>
+<connection t1="Derry" t2="Essex"/>
+<connection t1="Derry" t2="Glornigh"/>
+<connection t1="Derry" t2="Kent"/>
+<connection t1="Derry" t2="Manchester"/>
+<connection t1="Derry" t2="Suffolk"/>
+<connection t1="Dherka" t2="Domita"/>
+<connection t1="Dherka" t2="Ferg"/>
+<connection t1="Dherka" t2="Kharak"/>
+<connection t1="Dherka" t2="Renga"/>
+<connection t1="Dherka" t2="sz 11"/>
+<connection t1="Dint" t2="Tesk"/>
+<connection t1="Dint" t2="sz 10"/>
+<connection t1="Dint" t2="sz 12"/>
+<connection t1="Domita" t2="Kharak"/>
+<connection t1="Domita" t2="Marksberg"/>
+<connection t1="Domita" t2="Slavbert"/>
+<connection t1="Donger" t2="Odessa"/>
+<connection t1="Donger" t2="Szymy"/>
+<connection t1="Donger" t2="sz 3"/>
+<connection t1="Donger" t2="sz 4"/>
+<connection t1="Donger" t2="sz 5"/>
+<connection t1="Draince" t2="Harbor Downs"/>
+<connection t1="Draince" t2="Harragh"/>
+<connection t1="Draince" t2="Pickleton"/>
+<connection t1="Draince" t2="Poliso"/>
+<connection t1="Draince" t2="sz 36"/>
+<connection t1="Dubain" t2="Frokbert"/>
+<connection t1="Dubain" t2="Ghren"/>
+<connection t1="Dubain" t2="Uralsk"/>
+<connection t1="Dubain" t2="sz 31"/>
+<connection t1="East Brompton" t2="Glornigh"/>
+<connection t1="East Brompton" t2="Kent"/>
+<connection t1="East Brompton" t2="London"/>
+<connection t1="East Brompton" t2="Northex"/>
+<connection t1="East Brompton" t2="Plopp"/>
+<connection t1="East Russia" t2="Moscow"/>
+<connection t1="East Russia" t2="North Russia"/>
+<connection t1="East Russia" t2="South Russia"/>
+<connection t1="East Russia" t2="Szymy"/>
+<connection t1="East Russia" t2="Ukraine"/>
+<connection t1="East Russia" t2="Uralsk"/>
+<connection t1="Eastern Elderbutte" t2="Glornigh"/>
+<connection t1="Eastern Elderbutte" t2="Manchester"/>
+<connection t1="Eastern Elderbutte" t2="Narne"/>
+<connection t1="Eastern Elderbutte" t2="Southumberland"/>
+<connection t1="Eastern Elderbutte" t2="sz 14"/>
+<connection t1="Eastern Elderbutte" t2="sz 16"/>
+<connection t1="Eastra" t2="Nevra"/>
+<connection t1="Eastra" t2="sz 12"/>
+<connection t1="Essex" t2="Manchester"/>
+<connection t1="Essex" t2="sz 19"/>
+<connection t1="Essex" t2="sz 20"/>
+<connection t1="Everd" t2="Gothia"/>
+<connection t1="Everd" t2="Jain"/>
+<connection t1="Everd" t2="Theod"/>
+<connection t1="Ferg" t2="Jain"/>
+<connection t1="Ferg" t2="Renga"/>
+<connection t1="Ferg" t2="Theod"/>
+<connection t1="Ferg" t2="Werke"/>
+<connection t1="Ferg" t2="sz 11"/>
+<connection t1="Feul" t2="Bimbledock"/>
+<connection t1="Feul" t2="Heldsville"/>
+<connection t1="Feul" t2="Redditon"/>
+<connection t1="Feul" t2="Stankton"/>
+<connection t1="Feul" t2="Townbergville"/>
+<connection t1="Flatsville" t2="Octagone"/>
+<connection t1="Flatsville" t2="Oklahoma"/>
+<connection t1="Flatsville" t2="Pomville"/>
+<connection t1="Flatsville" t2="Puzkel"/>
+<connection t1="Flatsville" t2="Tainte"/>
+<connection t1="Frakesville" t2="Tainte"/>
+<connection t1="Frakesville" t2="Trenton"/>
+<connection t1="Frakesville" t2="Urkel"/>
+<connection t1="Frakesville" t2="sz 36"/>
+<connection t1="Freepton" t2="Grao"/>
+<connection t1="Freepton" t2="Marksberg"/>
+<connection t1="Freepton" t2="Rakker"/>
+<connection t1="Freepton" t2="Slavbert"/>
+<connection t1="Freepton" t2="sz 7"/>
+<connection t1="Freepton" t2="sz 8"/>
+<connection t1="Fremme" t2="Herfbert"/>
+<connection t1="Fremme" t2="Suttax"/>
+<connection t1="Fremme" t2="sz 31"/>
+<connection t1="Fremme" t2="sz 33"/>
+<connection t1="Frokbert" t2="Ghren"/>
+<connection t1="Frokbert" t2="Noep"/>
+<connection t1="Frokbert" t2="Szymy"/>
+<connection t1="Frokbert" t2="Uralsk"/>
+<connection t1="Frokbert" t2="sz 5"/>
+<connection t1="Gadonk" t2="Mekt"/>
+<connection t1="Gadonk" t2="Murmansk"/>
+<connection t1="Gadonk" t2="Platzberg"/>
+<connection t1="Gadonk" t2="sz 29"/>
+<connection t1="Gherd" t2="Mutta"/>
+<connection t1="Gherd" t2="Renga"/>
+<connection t1="Ghoast" t2="Herfbert"/>
+<connection t1="Ghoast" t2="Pawnt"/>
+<connection t1="Ghoast" t2="Ritnik"/>
+<connection t1="Ghoast" t2="sz 31"/>
+<connection t1="Ghoast" t2="sz 34"/>
+<connection t1="Ghren" t2="Mikkra"/>
+<connection t1="Ghren" t2="Noep"/>
+<connection t1="Ghren" t2="sz 31"/>
+<connection t1="Glornigh" t2="Manchester"/>
+<connection t1="Glornigh" t2="Narne"/>
+<connection t1="Gopnik" t2="Moscow"/>
+<connection t1="Gopnik" t2="South Russia"/>
+<connection t1="Gopnik" t2="West Russia"/>
+<connection t1="Gopnik" t2="sz 1"/>
+<connection t1="Gopnik" t2="sz 30"/>
+<connection t1="Gordoba" t2="Ritnik"/>
+<connection t1="Gordoba" t2="Ukraine"/>
+<connection t1="Gothia" t2="Larpp"/>
+<connection t1="Gothia" t2="Nevra"/>
+<connection t1="Gothia" t2="Schindel"/>
+<connection t1="Gothia" t2="Yom"/>
+<connection t1="Gothia" t2="sz 40"/>
+<connection t1="Grao" t2="Inda"/>
+<connection t1="Grao" t2="Marksberg"/>
+<connection t1="Grao" t2="sz 8"/>
+<connection t1="Grodnik" t2="East Russia"/>
+<connection t1="Grodnik" t2="Jawn"/>
+<connection t1="Grodnik" t2="North Russia"/>
+<connection t1="Grodnik" t2="Odessa"/>
+<connection t1="Grodnik" t2="Szymy"/>
+<connection t1="Harbor Downs" t2="Pickleton"/>
+<connection t1="Harbor Downs" t2="Trenton"/>
+<connection t1="Harbor Downs" t2="sz 36"/>
+<connection t1="Harragh" t2="Oumik"/>
+<connection t1="Harragh" t2="Prain"/>
+<connection t1="Harragh" t2="sz 28"/>
+<connection t1="Heldsville" t2="Northex"/>
+<connection t1="Heldsville" t2="Redditon"/>
+<connection t1="Heldsville" t2="sz 39"/>
+<connection t1="Heldsville" t2="sz 41"/>
+<connection t1="Herfbert" t2="Suttax"/>
+<connection t1="Herfbert" t2="sz 31"/>
+<connection t1="Herfbert" t2="sz 34"/>
+<connection t1="Horn" t2="Waifu"/>
+<connection t1="Horn" t2="sz 9"/>
+<connection t1="Inda" t2="Marksberg"/>
+<connection t1="Inda" t2="Waifu"/>
+<connection t1="Inda" t2="sz 10"/>
+<connection t1="Inda" t2="sz 11"/>
+<connection t1="Jain" t2="Theod"/>
+<connection t1="Jain" t2="Tran"/>
+<connection t1="Jain" t2="sz 11"/>
+<connection t1="Jankum" t2="Newfield"/>
+<connection t1="Jankum" t2="Portochang"/>
+<connection t1="Jankum" t2="Puzkel"/>
+<connection t1="Jankum" t2="Spergbert"/>
+<connection t1="Jankum" t2="sz 25"/>
+<connection t1="Jawn" t2="North Russia"/>
+<connection t1="Jawn" t2="Odessa"/>
+<connection t1="Jawn" t2="Treltz"/>
+<connection t1="Jawn" t2="sz 2"/>
+<connection t1="Jawn" t2="sz 3"/>
+<connection t1="Judic" t2="Sinai"/>
+<connection t1="Judic" t2="Sraya"/>
+<connection t1="Judic" t2="sz 33"/>
+<connection t1="Judic" t2="sz 35"/>
+<connection t1="Kent" t2="Northex"/>
+<connection t1="Kent" t2="Stankton"/>
+<connection t1="Kent" t2="Suffolk"/>
+<connection t1="Kent" t2="Wessex"/>
+<connection t1="Kernar" t2="Treltz"/>
+<connection t1="Kernar" t2="West Russia"/>
+<connection t1="Kernar" t2="sz 1"/>
+<connection t1="Kharak" t2="Gherd"/>
+<connection t1="Kharak" t2="Philas"/>
+<connection t1="Kharak" t2="Renga"/>
+<connection t1="Kharak" t2="Slavbert"/>
+<connection t1="Krang" t2="Ponin"/>
+<connection t1="Krang" t2="Slexual"/>
+<connection t1="Krang" t2="Tertle"/>
+<connection t1="Krang" t2="sz 23"/>
+<connection t1="Larpp" t2="Nevra"/>
+<connection t1="Larpp" t2="Schindel"/>
+<connection t1="Larpp" t2="sz 13"/>
+<connection t1="London" t2="Kent"/>
+<connection t1="London" t2="Northex"/>
+<connection t1="Manchester" t2="Southumberland"/>
+<connection t1="Manchester" t2="Tippe"/>
+<connection t1="Marksberg" t2="Slavbert"/>
+<connection t1="Marksberg" t2="sz 11"/>
+<connection t1="Mekt" t2="Platzberg"/>
+<connection t1="Mekt" t2="sz 29"/>
+<connection t1="Mikkra" t2="Noep"/>
+<connection t1="Mikkra" t2="Useer"/>
+<connection t1="Mikkra" t2="sz 31"/>
+<connection t1="Mikkra" t2="sz 32"/>
+<connection t1="Moscow" t2="North Russia"/>
+<connection t1="Moscow" t2="South Russia"/>
+<connection t1="Moscow" t2="West Russia"/>
+<connection t1="Murmansk" t2="sz 29"/>
+<connection t1="Murmansk" t2="sz 30"/>
+<connection t1="Mutta" t2="Therak"/>
+<connection t1="Mutta" t2="Useer"/>
+<connection t1="Mutta" t2="sz 32"/>
+<connection t1="Narne" t2="Plopp"/>
+<connection t1="Narne" t2="Schindel"/>
+<connection t1="Narne" t2="sz 14"/>
+<connection t1="Narne" t2="sz 41"/>
+<connection t1="Nevra" t2="Yom"/>
+<connection t1="Nevra" t2="sz 12"/>
+<connection t1="Newfield" t2="Puzkel"/>
+<connection t1="Noep" t2="Useer"/>
+<connection t1="Noep" t2="sz 5"/>
+<connection t1="North Russia" t2="Treltz"/>
+<connection t1="North Russia" t2="West Russia"/>
+<connection t1="Northex" t2="Feul"/>
+<connection t1="Northex" t2="Stankton"/>
+<connection t1="Octagone" t2="Oklahoma"/>
+<connection t1="Octagone" t2="Tainte"/>
+<connection t1="Octagone" t2="sz 23"/>
+<connection t1="Odessa" t2="Szymy"/>
+<connection t1="Odessa" t2="sz 3"/>
+<connection t1="Oklahoma" t2="Portochang"/>
+<connection t1="Oklahoma" t2="Puzkel"/>
+<connection t1="Oklahoma" t2="Slenk"/>
+<connection t1="Oklahoma" t2="sz 23"/>
+<connection t1="Oumik" t2="Prain"/>
+<connection t1="Oumik" t2="sz 27"/>
+<connection t1="Pawnt" t2="Ritnik"/>
+<connection t1="Pawnt" t2="sz 34"/>
+<connection t1="Petrof" t2="Brezdzev"/>
+<connection t1="Petrof" t2="Murmansk"/>
+<connection t1="Petrof" t2="sz 30"/>
+<connection t1="Philas" t2="Rakker"/>
+<connection t1="Philas" t2="Slavbert"/>
+<connection t1="Philas" t2="Warch"/>
+<connection t1="Pickleton" t2="Pomville"/>
+<connection t1="Pickleton" t2="Prain"/>
+<connection t1="Platzberg" t2="Spiegel"/>
+<connection t1="Platzberg" t2="sz 28"/>
+<connection t1="Plopp" t2="Binche"/>
+<connection t1="Plopp" t2="Glornigh"/>
+<connection t1="Plopp" t2="sz 41"/>
+<connection t1="Poliso" t2="Yain"/>
+<connection t1="Poliso" t2="sz 36"/>
+<connection t1="Pomville" t2="Newfield"/>
+<connection t1="Pomville" t2="Puzkel"/>
+<connection t1="Pomville" t2="Vergen"/>
+<connection t1="Ponin" t2="Brananaville"/>
+<connection t1="Ponin" t2="Tertle"/>
+<connection t1="Portochang" t2="Puzkel"/>
+<connection t1="Portochang" t2="Slenk"/>
+<connection t1="Portochang" t2="Spergbert"/>
+<connection t1="Portochang" t2="sz 24"/>
+<connection t1="Prain" t2="Draince"/>
+<connection t1="Prain" t2="Vergen"/>
+<connection t1="Rakker" t2="Slavbert"/>
+<connection t1="Rakker" t2="Warch"/>
+<connection t1="Rakker" t2="sz 7"/>
+<connection t1="Redditon" t2="Townbergville"/>
+<connection t1="Redditon" t2="sz 38"/>
+<connection t1="Redditon" t2="sz 39"/>
+<connection t1="Renga" t2="Tzeba"/>
+<connection t1="Sinai" t2="Sraya"/>
+<connection t1="Sinai" t2="sz 35"/>
+<connection t1="Sinai" t2="sz 37"/>
+<connection t1="Sinai" t2="sz 38"/>
+<connection t1="Sinai" t2="Townbergville"/>
+<connection t1="Slenk" t2="sz 23"/>
+<connection t1="Slenk" t2="sz 24"/>
+<connection t1="Slexual" t2="Trangle"/>
+<connection t1="Slexual" t2="Twenkbert"/>
+<connection t1="South Russia" t2="Ukraine"/>
+<connection t1="South Russia" t2="sz 30"/>
+<connection t1="Southumberland" t2="Tippe"/>
+<connection t1="Southumberland" t2="Tippton"/>
+<connection t1="Southumberland" t2="sz 16"/>
+<connection t1="Southumberland" t2="sz 18"/>
+<connection t1="Southumberland" t2="sz 19"/>
+<connection t1="Spergbert" t2="sz 24"/>
+<connection t1="Spergbert" t2="sz 25"/>
+<connection t1="Spiegel" t2="Mekt"/>
+<connection t1="Spiegel" t2="sz 28"/>
+<connection t1="Spiegel" t2="sz 29"/>
+<connection t1="Sraya" t2="sz 33"/>
+<connection t1="Stankton" t2="Twenkbert"/>
+<connection t1="Stankton" t2="Wessex"/>
+<connection t1="Stankton" t2="sz 21"/>
+<connection t1="Suffolk" t2="Essex"/>
+<connection t1="Suffolk" t2="Wessex"/>
+<connection t1="Suffolk" t2="sz 20"/>
+<connection t1="Suttax" t2="sz 33"/>
+<connection t1="Suttax" t2="sz 34"/>
+<connection t1="Suttax" t2="sz 35"/>
+<connection t1="Szymy" t2="Uralsk"/>
+<connection t1="Szymy" t2="sz 5"/>
+<connection t1="Tainte" t2="Trenton"/>
+<connection t1="Tertle" t2="sz 22"/>
+<connection t1="Tertle" t2="sz 23"/>
+<connection t1="Tesk" t2="Tran"/>
+<connection t1="Tesk" t2="sz 11"/>
+<connection t1="Tesk" t2="sz 12"/>
+<connection t1="Theod" t2="Werke"/>
+<connection t1="Theod" t2="Yara"/>
+<connection t1="Theod" t2="sz 39"/>
+<connection t1="Theod" t2="sz 40"/>
+<connection t1="Therak" t2="Useer"/>
+<connection t1="Therak" t2="Warch"/>
+<connection t1="Therak" t2="sz 6"/>
+<connection t1="Tippe" t2="Essex"/>
+<connection t1="Tippe" t2="sz 19"/>
+<connection t1="Tippton" t2="sz 16"/>
+<connection t1="Tippton" t2="sz 17"/>
+<connection t1="Tippton" t2="sz 18"/>
+<connection t1="Townbergville" t2="sz 37"/>
+<connection t1="Townbergville" t2="sz 38"/>
+<connection t1="Tran" t2="Yom"/>
+<connection t1="Tran" t2="sz 11"/>
+<connection t1="Trangle" t2="Arifice"/>
+<connection t1="Trangle" t2="Bimbledock"/>
+<connection t1="Treltz" t2="West Russia"/>
+<connection t1="Treltz" t2="sz 1"/>
+<connection t1="Treltz" t2="sz 2"/>
+<connection t1="Trenton" t2="sz 36"/>
+<connection t1="Twenkbert" t2="Brananaville"/>
+<connection t1="Twenkbert" t2="sz 21"/>
+<connection t1="Tzeba" t2="Gherd"/>
+<connection t1="Tzeba" t2="Werke"/>
+<connection t1="Tzeba" t2="Zyanthos"/>
+<connection t1="Tzeba" t2="sz 32"/>
+<connection t1="Tzeba" t2="sz 33"/>
+<connection t1="Ukraine" t2="Brezdzev"/>
+<connection t1="Ukraine" t2="Uralsk"/>
+<connection t1="Urkel" t2="Trangle"/>
+<connection t1="Urkel" t2="sz 36"/>
+<connection t1="Urkel" t2="sz 37"/>
+<connection t1="Useer" t2="sz 5"/>
+<connection t1="Useer" t2="sz 6"/>
+<connection t1="Vergen" t2="Pickleton"/>
+<connection t1="Waifu" t2="Grao"/>
+<connection t1="Waifu" t2="sz 8"/>
+<connection t1="Waifu" t2="sz 9"/>
+<connection t1="Warch" t2="sz 6"/>
+<connection t1="Warch" t2="sz 7"/>
+<connection t1="Werke" t2="Renga"/>
+<connection t1="Werke" t2="Yara"/>
+<connection t1="Werke" t2="Zyanthos"/>
+<connection t1="Wessex" t2="sz 20"/>
+<connection t1="Wessex" t2="sz 21"/>
+<connection t1="West Russia" t2="sz 1"/>
+<connection t1="Yain" t2="sz 36"/>
+<connection t1="Yara" t2="Zyanthos"/>
+<connection t1="Yara" t2="sz 38"/>
+<connection t1="Yara" t2="sz 39"/>
+<connection t1="Yom" t2="Everd"/>
+<connection t1="Yom" t2="Jain"/>
+<connection t1="Zyanthos" t2="sz 33"/>
+<connection t1="sz 1" t2="sz 2"/>
+<connection t1="sz 1" t2="sz 30"/>
+<connection t1="sz 31" t2="sz 34"/>
+<connection t1="sz 2" t2="sz 3"/>
+<connection t1="sz 3" t2="sz 4"/>
+<connection t1="sz 37" t2="sz 38"/>
+<connection t1="sz 4" t2="sz 5"/>
+<connection t1="sz 4" t2="sz 6"/>
+<connection t1="sz 5" t2="sz 6"/>
+<connection t1="sz 6" t2="sz 7"/>
+<connection t1="sz 7" t2="sz 8"/>
+<connection t1="sz 8" t2="sz 9"/>
+<connection t1="sz 9" t2="sz 10"/>
+<connection t1="sz 10" t2="sz 11"/>
+<connection t1="sz 10" t2="sz 12"/>
+<connection t1="sz 11" t2="Domita"/>
+<connection t1="sz 12" t2="sz 15"/>
+<connection t1="sz 13" t2="Schindel"/>
+<connection t1="sz 13" t2="sz 14"/>
+<connection t1="sz 13" t2="sz 15"/>
+<connection t1="sz 14" t2="Schindel"/>
+<connection t1="sz 14" t2="sz 15"/>
+<connection t1="sz 14" t2="sz 16"/>
+<connection t1="sz 14" t2="sz 17"/>
+<connection t1="sz 15" t2="sz 17"/>
+<connection t1="sz 16" t2="sz 17"/>
+<connection t1="sz 17" t2="sz 18"/>
+<connection t1="sz 18" t2="sz 19"/>
+<connection t1="sz 19" t2="sz 20"/>
+<connection t1="sz 20" t2="sz 21"/>
+<connection t1="sz 21" t2="sz 22"/>
+<connection t1="sz 22" t2="Ponin"/>
+<connection t1="sz 22" t2="sz 23"/>
+<connection t1="sz 23" t2="sz 24"/>
+<connection t1="sz 24" t2="sz 25"/>
+<connection t1="sz 25" t2="sz 26"/>
+<connection t1="sz 26" t2="Jankum"/>
+<connection t1="sz 26" t2="Newfield"/>
+<connection t1="sz 26" t2="sz 27"/>
+<connection t1="sz 27" t2="sz 28"/>
+<connection t1="sz 28" t2="sz 29"/>
+<connection t1="sz 29" t2="sz 30"/>
+<connection t1="sz 31" t2="sz 32"/>
+<connection t1="sz 31" t2="sz 33"/>
+<connection t1="sz 32" t2="Gherd"/>
+<connection t1="sz 32" t2="sz 33"/>
+<connection t1="sz 33" t2="sz 35"/>
+<connection t1="sz 34" t2="sz 35"/>
+<connection t1="sz 34" t2="sz 36"/>
+<connection t1="sz 35" t2="sz 37"/>
+<connection t1="sz 36" t2="sz 37"/>
+<connection t1="sz 38" t2="sz 39"/>
+<connection t1="sz 39" t2="sz 40"/>
+<connection t1="sz 39" t2="sz 41"/>
+<connection t1="sz 40" t2="Everd"/>
+<connection t1="sz 40" t2="sz 41"/>
+<connection t1="sz 41" t2="Schindel"/>
+<connection t1="sz 40" t2="Schindel"/>
+  </map>
+  <resourceList>
+    <resource name="PUs"/>
+    <resource name="techTokens"/>
+  </resourceList>
+  <playerList>
+    <!-- In turn order -->
+   <player name="Russians" optional="false"/>
+    <player name="British" optional="false"/>
+    <player name="Neutrals" optional="true"/>
+  </playerList>
+  <unitList>
+    <unit name="infantry"/>
+    <unit name="elite"/>
+    <unit name="artillery"/>
+    <unit name="scout"/>
+    <unit name="armour"/>
+    <unit name="fighter"/>
+    <unit name="bomber"/>
+    <unit name="transport"/>
+    <unit name="submarine"/>
+    <unit name="destroyer"/>
+    <unit name="cruiser"/>
+    <unit name="carrier"/>
+    <unit name="battleship"/>
+    <unit name="aaGun"/>
+    <unit name="factory"/>
+  </unitList>
+  <gamePlay>
+    <delegate name="initDelegate" javaClass="games.strategy.triplea.delegate.InitializationDelegate" display="Initializing Delegates"/>
+    <delegate name="tech" javaClass="games.strategy.triplea.delegate.TechnologyDelegate" display="Research Technology"/>
+    <delegate name="tech_activation" javaClass="games.strategy.triplea.delegate.TechActivationDelegate" display="Activate Technology"/>
+    <delegate name="battle" javaClass="games.strategy.triplea.delegate.BattleDelegate" display="Combat"/>
+    <delegate name="move" javaClass="games.strategy.triplea.delegate.MoveDelegate" display="Combat Move"/>
+    <delegate name="place" javaClass="games.strategy.triplea.delegate.PlaceDelegate" display="Place Units"/>
+    <delegate name="purchase" javaClass="games.strategy.triplea.delegate.PurchaseDelegate" display="Purchase Units"/>
+    <delegate name="endTurn" javaClass="games.strategy.triplea.delegate.EndTurnDelegate" display="Turn Complete"/>
+    <delegate name="endRound" javaClass="games.strategy.triplea.delegate.EndRoundDelegate" display="Round Complete"/>
+    <delegate name="placeBid" javaClass="games.strategy.triplea.delegate.BidPlaceDelegate" display="Bid Placement"/>
+    <delegate name="bid" javaClass="games.strategy.triplea.delegate.BidPurchaseDelegate" display="Bid Purchase"/>
+    <sequence>
+      <step name="gameInitDelegate" delegate="initDelegate" maxRunCount="1"/>
+      <!-- Bidding Phase -->
+      <step name="russianBid" delegate="bid" player="Russians" maxRunCount="1"/>
+      <step name="russianBidPlace" delegate="placeBid" player="Russians" maxRunCount="1"/>
+      <step name="britishBid" delegate="bid" player="British" maxRunCount="1"/>
+      <step name="britishBidPlace" delegate="placeBid" player="British" maxRunCount="1"/>
+      <!-- Russians Game Sequence -->
+      <step name="russianTech" delegate="tech" player="Russians"/>
+      <step name="russianPurchase" delegate="purchase" player="Russians"/>
+      <step name="russianCombatMove" delegate="move" player="Russians"/>
+      <step name="russianBattle" delegate="battle" player="Russians"/>
+      <step name="russianNonCombatMove" delegate="move" player="Russians" display="Non Combat Move"/>
+      <step name="russianPlace" delegate="place" player="Russians"/>
+      <step name="russianTechActivation" delegate="tech_activation" player="Russians"/>
+      <step name="russianEndTurn" delegate="endTurn" player="Russians"/>
+      <!-- British Game Sequence -->
+      <step name="britishTech" delegate="tech" player="British"/>
+      <step name="britishPurchase" delegate="purchase" player="British"/>
+      <step name="britishCombatMove" delegate="move" player="British"/>
+      <step name="britishBattle" delegate="battle" player="British"/>
+      <step name="britishNonCombatMove" delegate="move" player="British" display="Non Combat Move"/>
+      <step name="britishPlace" delegate="place" player="British"/>
+      <step name="britishTechActivation" delegate="tech_activation" player="British"/>
+      <step name="britishEndTurn" delegate="endTurn" player="British"/>
+      <step name="endRoundStep" delegate="endRound"/>
+    </sequence>
+  </gamePlay>
+  <production>
+    <!-- Unit Production Cost -->
+    <productionRule name="buyInfantry">
+      <cost resource="PUs" quantity="3"/>
+      <result resourceOrUnit="infantry" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyelite">
+      <cost resource="PUs" quantity="4"/>
+      <result resourceOrUnit="elite" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyArtillery">
+      <cost resource="PUs" quantity="4"/>
+      <result resourceOrUnit="artillery" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyScout">
+      <cost resource="PUs" quantity="5"/>
+      <result resourceOrUnit="scout" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyArmour">
+      <cost resource="PUs" quantity="6"/>
+      <result resourceOrUnit="armour" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyFighter">
+      <cost resource="PUs" quantity="12"/>
+      <result resourceOrUnit="fighter" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyBomber">
+      <cost resource="PUs" quantity="15"/>
+      <result resourceOrUnit="bomber" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyTransport">
+      <cost resource="PUs" quantity="7"/>
+      <result resourceOrUnit="transport" quantity="1"/>
+    </productionRule>
+    <productionRule name="buySubmarine">
+      <cost resource="PUs" quantity="6"/>
+      <result resourceOrUnit="submarine" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyDestroyer">
+      <cost resource="PUs" quantity="8"/>
+      <result resourceOrUnit="destroyer" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyCruiser">
+      <cost resource="PUs" quantity="12"/>
+      <result resourceOrUnit="cruiser" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyCarrier">
+      <cost resource="PUs" quantity="16"/>
+      <result resourceOrUnit="carrier" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyBattleship">
+      <cost resource="PUs" quantity="24"/>
+      <result resourceOrUnit="battleship" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyFactory">
+      <cost resource="PUs" quantity="15"/>
+      <result resourceOrUnit="factory" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyAAGun">
+      <cost resource="PUs" quantity="5"/>
+      <result resourceOrUnit="aaGun" quantity="1"/>
+    </productionRule>
+    <!-- advanced industry 
+				<productionRule name="buyInfantryIndustrialTechnology">
+						<cost resource="PUs" quantity="3" />
+						<result resourceOrUnit="infantry" quantity="1"/>
+				</productionRule>
+   				<productionRule name="buyeliteIndustrialTechnology">
+      				<cost resource="PUs" quantity="3"/>
+      				<result resourceOrUnit="elite" quantity="1"/>
+    				</productionRule>
+				<productionRule name="buyArtilleryIndustrialTechnology">
+						<cost resource="PUs" quantity="4" />
+						<result resourceOrUnit="artillery" quantity="1"/>
+				</productionRule>
+    				<productionRule name="buyScoutIndustrialTechnology">
+      				<cost resource="PUs" quantity="3"/>
+     				<result resourceOrUnit="scout" quantity="1"/>
+   				</productionRule>
+				<productionRule name="buyArmourIndustrialTechnology">
+						<cost resource="PUs" quantity="5" />
+						<result resourceOrUnit="armour" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyFighterIndustrialTechnology">
+						<cost resource="PUs" quantity="10" />
+						<result resourceOrUnit="fighter" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyBomberIndustrialTechnology">
+						<cost resource="PUs" quantity="12" />
+						<result resourceOrUnit="bomber" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyTransportIndustrialTechnology">
+						<cost resource="PUs" quantity="6" />
+						<result resourceOrUnit="transport" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyCarrierIndustrialTechnology">
+						<cost resource="PUs" quantity="11" />
+						<result resourceOrUnit="carrier" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyDestroyerIndustrialTechnology">
+						<cost resource="PUs" quantity="7" />
+						<result resourceOrUnit="destroyer" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyCruiserIndustrialTechnology">
+						<cost resource="PUs" quantity="10" />
+						<result resourceOrUnit="cruiser" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyBattleshipIndustrialTechnology">
+						<cost resource="PUs" quantity="17" />
+						<result resourceOrUnit="battleship" quantity="1"/>
+				</productionRule>
+				<productionRule name="buySubmarineIndustrialTechnology">
+						<cost resource="PUs" quantity="5" />
+						<result resourceOrUnit="submarine" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyFactoryIndustrialTechnology">
+						<cost resource="PUs" quantity="15" />
+						<result resourceOrUnit="factory" quantity="1"/>
+				</productionRule>
+				<productionRule name="buyAAGunIndustrialTechnology">
+						<cost resource="PUs" quantity="6" />
+						<result resourceOrUnit="aaGun" quantity="1"/>
+				</productionRule>-->
+    <!-- shipyards -->
+    <productionRule name="buyTransportShipyards">
+      <cost resource="PUs" quantity="6"/>
+      <result resourceOrUnit="transport" quantity="1"/>
+    </productionRule>
+    <productionRule name="buySubmarineShipyards">
+      <cost resource="PUs" quantity="5"/>
+      <result resourceOrUnit="submarine" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyDestroyerShipyards">
+      <cost resource="PUs" quantity="7"/>
+      <result resourceOrUnit="destroyer" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyCruiserShipyards">
+      <cost resource="PUs" quantity="10"/>
+      <result resourceOrUnit="cruiser" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyCarrierShipyards">
+      <cost resource="PUs" quantity="11"/>
+      <result resourceOrUnit="carrier" quantity="1"/>
+    </productionRule>
+    <productionRule name="buyBattleshipShipyards">
+      <cost resource="PUs" quantity="17"/>
+      <result resourceOrUnit="battleship" quantity="1"/>
+    </productionRule>
+    <!-- Repair rules -->
+    <repairRule name="repairFactory">
+      <cost resource="PUs" quantity="1"/>
+      <result resourceOrUnit="factory" quantity="1"/>
+    </repairRule>
+    <repairRule name="repairFactoryIndustrialTechnology">
+      <cost resource="PUs" quantity="1"/>
+      <result resourceOrUnit="factory" quantity="2"/>
+    </repairRule>
+    <repairFrontier name="repair">
+      <repairRules name="repairFactory"/>
+    </repairFrontier>
+    <repairFrontier name="repairIndustrialTechnology">
+      <repairRules name="repairFactoryIndustrialTechnology"/>
+    </repairFrontier>
+    <productionFrontier name="production">
+      <frontierRules name="buyInfantry"/>
+      <frontierRules name="buyelite"/>
+      <frontierRules name="buyArtillery"/>
+      <frontierRules name="buyScout"/>
+      <frontierRules name="buyArmour"/>
+      <frontierRules name="buyFighter"/>
+      <frontierRules name="buyBomber"/>
+      <frontierRules name="buyTransport"/>
+      <frontierRules name="buySubmarine"/>
+      <frontierRules name="buyDestroyer"/>
+      <frontierRules name="buyCruiser"/>
+      <frontierRules name="buyCarrier"/>
+      <frontierRules name="buyBattleship"/>
+      <frontierRules name="buyAAGun"/>
+      <frontierRules name="buyFactory"/>
+    </productionFrontier>
+    <!--<productionFrontier name="productionIndustrialTechnology">
+						<frontierRules name="buyInfantryIndustrialTechnology"/>
+      						<frontierRules name="buyeliteIndustrialTechnology"/>
+						<frontierRules name="buyArtilleryIndustrialTechnology"/>
+      						<frontierRules name="buyScoutIndustrialTechnology"/>
+						<frontierRules name="buyArmourIndustrialTechnology"/>
+						<frontierRules name="buyFighterIndustrialTechnology"/>
+						<frontierRules name="buyBomberIndustrialTechnology"/>
+						<frontierRules name="buyTransportIndustrialTechnology"/>
+						<frontierRules name="buySubmarineIndustrialTechnology"/>
+						<frontierRules name="buyDestroyerIndustrialTechnology"/>
+						<frontierRules name="buyCruiserIndustrialTechnology"/>
+						<frontierRules name="buyCarrierIndustrialTechnology"/>
+						<frontierRules name="buyBattleshipIndustrialTechnology"/>
+						<frontierRules name="buyAAGunIndustrialTechnology"/>
+						<frontierRules name="buyFactoryIndustrialTechnology"/>		
+				</productionFrontier>-->
+    <productionFrontier name="productionShipyards">
+      <frontierRules name="buyTransportShipyards"/>
+      <frontierRules name="buySubmarineShipyards"/>
+      <frontierRules name="buyDestroyerShipyards"/>
+      <frontierRules name="buyCruiserShipyards"/>
+      <frontierRules name="buyCarrierShipyards"/>
+      <frontierRules name="buyBattleshipShipyards"/>
+    </productionFrontier>
+    <playerProduction player="Russians" frontier="production"/>
+    <playerProduction player="British" frontier="production"/>
+    <playerRepair player="British" frontier="repair"/>
+    <playerRepair player="Russians" frontier="repair"/>
+  </production>
+
+  <attachmentList>
+     <attachment name="techAttachment" attachTo="British" javaClass="games.strategy.triplea.attachments.TechAttachment" type="player">
+      <option name="heavyBomber" value="false"/>
+      <option name="jetPower" value="false"/>
+      <option name="industrialTechnology" value="false"/>
+      <option name="superSub" value="false"/>
+      <option name="rocket" value="false"/>
+      <option name="longRangeAir" value="false"/>
+    </attachment>
+    <attachment name="techAttachment" attachTo="Russians" javaClass="games.strategy.triplea.attachments.TechAttachment" type="player">
+      <option name="heavyBomber" value="false"/>
+      <option name="jetPower" value="false"/>
+      <option name="industrialTechnology" value="false"/>
+      <option name="superSub" value="false"/>
+      <option name="rocket" value="false"/>
+      <option name="longRangeAir" value="false"/>
+    </attachment>
+    <attachment name="techAttachment" attachTo="Neutrals" javaClass="games.strategy.triplea.attachments.TechAttachment" type="player">
+      <option name="techCost" value="5"/>
+      <option name="superSub" value="false"/>
+      <option name="jetPower" value="true"/>
+      <option name="shipyards" value="false"/>
+      <option name="aARadar" value="true"/>
+      <option name="longRangeAir" value="false"/>
+      <option name="heavyBomber" value="false"/>
+      <option name="improvedArtillerySupport" value="false"/>
+      <option name="rocket" value="false"/>
+      <option name="paratroopers" value="false"/>
+      <option name="increasedFactoryProduction" value="false"/>
+      <option name="warBonds" value="false"/>
+      <option name="mechanizedInfantry" value="false"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="infantry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="1"/>
+      <option name="attack" value="1"/>
+      <option name="defense" value="2"/>
+      <option name="transportCost" value="2"/>
+      <option name="artillerySupportable" value="true"/>
+      <option name="isInfantry" value="true"/>
+      <option name="isAirTransportable" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="elite" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="1"/>
+      <option name="transportCost" value="2"/>
+      <option name="attack" value="2"/>
+      <option name="defense" value="3"/>
+      <option name="artillerySupportable" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="artillery" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="1"/>
+      <option name="attack" value="2"/>
+      <option name="defense" value="2"/>
+      <option name="transportCost" value="3"/>
+      <option name="artillery" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="scout" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="3"/>
+      <option name="transportCost" value="2"/>
+      <option name="canBlitz" value="true"/>
+      <option name="attack" value="2"/>
+      <option name="defense" value="1"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="armour" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="3"/>
+      <option name="defense" value="3"/>
+      <option name="transportCost" value="3"/>
+      <option name="canBlitz" value="true"/>
+      <option name="isLandTransport" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="fighter" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="4"/>
+      <option name="attack" value="3"/>
+      <option name="defense" value="4"/>
+      <option name="carrierCost" value="1"/>
+      <option name="isAir" value="true"/>
+      <option name="canIntercept" value="true"/>
+      <option name="canEscort" value="true"/>
+      <option name="airDefense" value="1"/>
+      <option name="airAttack" value="1"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="bomber" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="6"/>
+      <option name="attack" value="4"/>
+      <option name="defense" value="1"/>
+      <option name="isStrategicBomber" value="true"/>
+      <option name="isAir" value="true"/>
+      <option name="transportCapacity" value="2"/>
+      <option name="isAirTransport" value="true"/>
+      <option name="airAttack" value="1"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="transport" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="0"/>
+      <option name="defense" value="0"/>
+      <option name="transportCapacity" value="5"/>
+      <option name="isSea" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="submarine" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="2"/>
+      <option name="defense" value="1"/>
+      <option name="isSea" value="true"/>
+      <option name="isSub" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="destroyer" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="2"/>
+      <option name="defense" value="2"/>
+      <option name="isSea" value="true"/>
+      <option name="isDestroyer" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="cruiser" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="3"/>
+      <option name="defense" value="3"/>
+      <option name="isSea" value="true"/>
+      <option name="canBombard" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="carrier" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="1"/>
+      <option name="defense" value="3"/>
+      <option name="isSea" value="true"/>
+      <option name="carrierCapacity" value="2"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="battleship" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="2"/>
+      <option name="attack" value="4"/>
+      <option name="defense" value="4"/>
+      <option name="isSea" value="true"/>
+      <option name="canBombard" value="true"/>
+      <option name="hitPoints" value="2"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="aaGun" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="movement" value="1"/>
+      <option name="attack" value="0"/>
+      <option name="defense" value="0"/>
+      <option name="transportCost" value="3"/>
+      <option name="canNotMoveDuringCombatMove" value="true"/>
+      <option name="isAAforCombatOnly" value="true"/>
+      <option name="maxAAattacks" value="3"/>
+      <option name="isRocket" value="true"/>
+    </attachment>
+    <attachment name="unitAttachment" attachTo="factory" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+      <option name="isFactory" value="true"/>
+      <option name="isAAforBombingThisUnitOnly" value="true"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Moscow" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="12"/>
+      <option name="capital" value="Russians"/>
+      <option name="victoryCity" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="London" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="12"/>
+      <option name="capital" value="British"/>
+      <option name="victoryCity" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Arifice" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Arkangsk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Barat" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Bergen" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Bimbledock" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Binche" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Biopolis" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Brananaville" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Brandge" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Braunker" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Brenha" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Brenn" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Brenny" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Brezdzev" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Bummstead" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Caspik" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Centa" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Charforte" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Chauff" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Chent" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Chesend" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Chonkille" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Chunnel Stack" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Clitopolis" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Corsilo" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Dbrak" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Densig" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Derrick" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Derry" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Dherka" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Dint" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Domita" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Donger" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Draince" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Dubain" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="East Brompton" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="East Russia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Eastern Elderbutte" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Eastra" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Essex" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Everd" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="West Russia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Ferg" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="3"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Feul" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Flatsville" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Frakesville" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Freepton" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Fremme" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Frokbert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Gadonk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Gherd" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Ghoast" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Ghren" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Glornigh" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Gopnik" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Gordoba" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Gothia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Grao" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Grodnik" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Harbor Downs" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Harragh" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Heldsville" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Herfbert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Horn" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Inda" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Jain" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Jankum" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Jawn" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Judic" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Kent" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Kernar" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Kharak" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="3"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Krang" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Larpp" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Manchester" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Marksberg" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Mekt" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Mikkra" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Murmansk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Mutta" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Narne" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Nevra" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Newfield" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Noep" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="North Russia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Northex" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Octagone" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Odessa" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Oklahoma" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Oumik" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Pawnt" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Petrof" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Philas" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="8"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Pickleton" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Platzberg" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Plopp" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Poliso" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Pomville" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Ponin" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Portochang" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Prain" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Puzkel" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Rakker" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Redditon" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Renga" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Ritnik" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Schindel" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Sinai" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="3"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Slavbert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Slenk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Slexual" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="South Russia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Southumberland" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Spergbert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Spiegel" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Sraya" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Stankton" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Suffolk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Suttax" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="3"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Szymy" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tainte" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tertle" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tesk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Theod" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Therak" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tippe" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tippton" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="0"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Townbergville" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tran" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Trangle" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Treltz" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Trenton" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Twenkbert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Tzeba" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Ukraine" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Uralsk" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Urkel" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+    <attachment name="territoryAttachment" attachTo="Useer" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Vergen" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="8"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Waifu" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="3"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Warch" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Werke" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Wessex" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="4"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Yain" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Yara" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Yom" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+    <attachment name="territoryAttachment" attachTo="Zyanthos" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+      <option name="production" value="1"/>
+    </attachment>
+
+
+    <!-- Canals -->
+    <attachment name="canalAttachmentSinai_Canal" attachTo="sz 37" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+      <option name="canalName" value="Sinai Canal"/>
+      <option name="landTerritories" value="Sinai:Townbergville"/>
+    </attachment>
+    <attachment name="canalAttachmentSinai_Canal" attachTo="sz 38" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+      <option name="canalName" value="Sinai Canal"/>
+      <option name="landTerritories" value="Sinai:Townbergville"/>
+    </attachment>
+    <attachment name="canalAttachmentGhoast_Canal" attachTo="sz 31" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+      <option name="canalName" value="Ghoast Canal"/>
+      <option name="landTerritories" value="Ghoast:Herfbert"/>
+    </attachment>
+    <attachment name="canalAttachmentGhoast_Canal" attachTo="sz 34" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+      <option name="canalName" value="Ghoast Canal"/>
+      <option name="landTerritories" value="Ghoast:Herfbert"/>
+    </attachment>
+  </attachmentList>
+  <initialize>
+    <ownerInitialize>
+
+      <territoryOwner territory="Moscow" owner="Russians"/>
+      <territoryOwner territory="London" owner="British"/>
+      <territoryOwner territory="Philas" owner="Neutrals"/>
+      <territoryOwner territory="Vergen" owner="Neutrals"/>
+      <territoryOwner territory="Draince" owner="Neutrals"/>
+      <territoryOwner territory="South Russia" owner="Russians"/>
+      <territoryOwner territory="Mekt" owner="Neutrals"/>
+      <territoryOwner territory="Pomville" owner="Neutrals"/>
+      <territoryOwner territory="Densig" owner="Neutrals"/>
+      <territoryOwner territory="Donger" owner="Neutrals"/>
+      <territoryOwner territory="Dint" owner="Neutrals"/>
+      <territoryOwner territory="Biopolis" owner="Neutrals"/>
+      <territoryOwner territory="Slenk" owner="Neutrals"/>
+      <territoryOwner territory="Ponin" owner="Neutrals"/>
+      <territoryOwner territory="Puzkel" owner="Neutrals"/>
+      <territoryOwner territory="Clitopolis" owner="Neutrals"/>
+      <territoryOwner territory="Mikkra" owner="Neutrals"/>
+      <territoryOwner territory="Derry" owner="Neutrals"/>
+      <territoryOwner territory="Ritnik" owner="Neutrals"/>
+      <territoryOwner territory="Twenkbert" owner="Neutrals"/>
+      <territoryOwner territory="West Russia" owner="Neutrals"/>
+      <territoryOwner territory="Frokbert" owner="Neutrals"/>
+      <territoryOwner territory="Oumik" owner="Neutrals"/>
+      <territoryOwner territory="Flatsville" owner="Neutrals"/>
+      <territoryOwner territory="North Russia" owner="Neutrals"/>
+      <territoryOwner territory="Ghoast" owner="Neutrals"/>
+      <territoryOwner territory="Chonkille" owner="Neutrals"/>
+      <territoryOwner territory="Sinai" owner="Neutrals"/>
+      <territoryOwner territory="Petrof" owner="Neutrals"/>
+      <territoryOwner territory="Tzeba" owner="Neutrals"/>
+
+      <territoryOwner territory="Renga" owner="Neutrals"/>
+      <territoryOwner territory="Ukraine" owner="Russians"/>
+      <territoryOwner territory="Kernar" owner="Neutrals"/>
+      <territoryOwner territory="East Russia" owner="Russians"/>
+      <territoryOwner territory="Newfield" owner="Neutrals"/>
+      <territoryOwner territory="Herfbert" owner="Neutrals"/>
+      <territoryOwner territory="Gadonk" owner="Neutrals"/>
+      <territoryOwner territory="Southumberland" owner="Neutrals"/>
+      <territoryOwner territory="Szymy" owner="Neutrals"/>
+      <territoryOwner territory="Suffolk" owner="Neutrals"/>
+      <territoryOwner territory="Theod" owner="Neutrals"/>
+      <territoryOwner territory="Platzberg" owner="Neutrals"/>
+      <territoryOwner territory="Waifu" owner="Neutrals"/>
+      <territoryOwner territory="Wessex" owner="British"/>
+      <territoryOwner territory="Jankum" owner="Neutrals"/>
+      <territoryOwner territory="Centa" owner="Neutrals"/>
+      <territoryOwner territory="Harbor Downs" owner="Neutrals"/>
+      <territoryOwner territory="Oklahoma" owner="Neutrals"/>
+      <territoryOwner territory="Eastra" owner="Neutrals"/>
+      <territoryOwner territory="Slexual" owner="Neutrals"/>
+      <territoryOwner territory="Jawn" owner="Neutrals"/>
+      <territoryOwner territory="Dbrak" owner="Neutrals"/>
+      <territoryOwner territory="Northex" owner="British"/>
+      <territoryOwner territory="Tertle" owner="Neutrals"/>
+      <territoryOwner territory="Grao" owner="Neutrals"/>
+      <territoryOwner territory="Marksberg" owner="Neutrals"/>
+
+      <territoryOwner territory="Pawnt" owner="Neutrals"/>
+      <territoryOwner territory="Freepton" owner="Neutrals"/>
+      <territoryOwner territory="Caspik" owner="Russians"/>
+      <territoryOwner territory="Grodnik" owner="Neutrals"/>
+      <territoryOwner territory="Tippe" owner="Neutrals"/>
+      <territoryOwner territory="Larpp" owner="Neutrals"/>
+      <territoryOwner territory="Portochang" owner="Neutrals"/>
+      <territoryOwner territory="Murmansk" owner="Neutrals"/>
+      <territoryOwner territory="Yain" owner="Neutrals"/>
+      <territoryOwner territory="Bimbledock" owner="Neutrals"/>
+      <territoryOwner territory="Slavbert" owner="Neutrals"/>
+      <territoryOwner territory="Werke" owner="Neutrals"/>
+      <territoryOwner territory="Arifice" owner="Neutrals"/>
+      <territoryOwner territory="Noep" owner="Neutrals"/>
+      <territoryOwner territory="Therak" owner="Neutrals"/>
+      <territoryOwner territory="Trangle" owner="Neutrals"/>
+      <territoryOwner territory="Arkangsk" owner="Neutrals"/>
+      <territoryOwner territory="Stankton" owner="Neutrals"/>
+      <territoryOwner territory="Tran" owner="Neutrals"/>
+      <territoryOwner territory="Domita" owner="Neutrals"/>
+      <territoryOwner territory="Mutta" owner="Neutrals"/>
+      <territoryOwner territory="Braunker" owner="Neutrals"/>
+      <territoryOwner territory="Suttax" owner="Neutrals"/>
+      <territoryOwner territory="Ferg" owner="Neutrals"/>
+      <territoryOwner territory="Chesend" owner="Neutrals"/>
+      <territoryOwner territory="Prain" owner="Neutrals"/>
+
+      <territoryOwner territory="Judic" owner="Neutrals"/>
+      <territoryOwner territory="Dubain" owner="Neutrals"/>
+      <territoryOwner territory="Yara" owner="Neutrals"/>
+      <territoryOwner territory="Octagone" owner="Neutrals"/>
+      <territoryOwner territory="Uralsk" owner="Neutrals"/>
+      <territoryOwner territory="Horn" owner="Neutrals"/>
+      <territoryOwner territory="Eastern Elderbutte" owner="Neutrals"/>
+      <territoryOwner territory="Frakesville" owner="Neutrals"/>
+      <territoryOwner territory="Plopp" owner="British"/>
+      <territoryOwner territory="Harragh" owner="Neutrals"/>
+      <territoryOwner territory="Sraya" owner="Neutrals"/>
+      <territoryOwner territory="Narne" owner="Neutrals"/>
+      <territoryOwner territory="Tesk" owner="Neutrals"/>
+      <territoryOwner territory="Odessa" owner="Neutrals"/>
+      <territoryOwner territory="Redditon" owner="Neutrals"/>
+      <territoryOwner territory="Nevra" owner="Neutrals"/>
+      <territoryOwner territory="Dherka" owner="Neutrals"/>
+      <territoryOwner territory="Urkel" owner="Neutrals"/>
+      <territoryOwner territory="Feul" owner="Neutrals"/>
+      <territoryOwner territory="Corsilo" owner="Neutrals"/>
+      <territoryOwner territory="Jain" owner="Neutrals"/>
+      <territoryOwner territory="Inda" owner="Neutrals"/>
+      <territoryOwner territory="Brenn" owner="Neutrals"/>
+      <territoryOwner territory="Krang" owner="Neutrals"/>
+      <territoryOwner territory="Chent" owner="Neutrals"/>
+      <territoryOwner territory="Barat" owner="Neutrals"/>
+
+      <territoryOwner territory="Rakker" owner="Neutrals"/>
+      <territoryOwner territory="Derrick" owner="Neutrals"/>
+      <territoryOwner territory="Gherd" owner="Neutrals"/>
+      <territoryOwner territory="East Brompton" owner="British"/>
+      <territoryOwner territory="Brenny" owner="Neutrals"/>
+      <territoryOwner territory="Schindel" owner="Neutrals"/>
+      <territoryOwner territory="Chunnel Stack" owner="Neutrals"/>
+      <territoryOwner territory="Useer" owner="Neutrals"/>
+      <territoryOwner territory="Tainte" owner="Neutrals"/>
+      <territoryOwner territory="Charforte" owner="Neutrals"/>
+      <territoryOwner territory="Brezdzev" owner="Neutrals"/>
+      <territoryOwner territory="Binche" owner="Neutrals"/>
+      <territoryOwner territory="Fremme" owner="Neutrals"/>
+      <territoryOwner territory="Chauff" owner="Neutrals"/>
+      <territoryOwner territory="Treltz" owner="Neutrals"/>
+      <territoryOwner territory="Brenha" owner="Neutrals"/>
+      <territoryOwner territory="Tippton" owner="Neutrals"/>
+      <territoryOwner territory="Gordoba" owner="Neutrals"/>
+      <territoryOwner territory="Townbergville" owner="Neutrals"/>
+      <territoryOwner territory="Brananaville" owner="Neutrals"/>
+      <territoryOwner territory="Gopnik" owner="Russians"/>
+      <territoryOwner territory="Heldsville" owner="Neutrals"/>
+      <territoryOwner territory="Essex" owner="Neutrals"/>
+      <territoryOwner territory="Warch" owner="Neutrals"/>
+      <territoryOwner territory="Zyanthos" owner="Neutrals"/>
+      <territoryOwner territory="Kent" owner="British"/>
+
+      <territoryOwner territory="Ghren" owner="Neutrals"/>
+      <territoryOwner territory="Bergen" owner="Neutrals"/>
+      <territoryOwner territory="Everd" owner="Neutrals"/>
+      <territoryOwner territory="Pickleton" owner="Neutrals"/>
+      <territoryOwner territory="Spergbert" owner="Neutrals"/>
+      <territoryOwner territory="Poliso" owner="Neutrals"/>
+      <territoryOwner territory="Brandge" owner="Neutrals"/>
+      <territoryOwner territory="Gothia" owner="Neutrals"/>
+      <territoryOwner territory="Spiegel" owner="Neutrals"/>
+      <territoryOwner territory="Bummstead" owner="Neutrals"/>
+      <territoryOwner territory="Yom" owner="Neutrals"/>
+      <territoryOwner territory="Manchester" owner="Neutrals"/>
+      <territoryOwner territory="Kharak" owner="Neutrals"/>
+      <territoryOwner territory="Trenton" owner="Neutrals"/>
+      <territoryOwner territory="Glornigh" owner="Neutrals"/>
+    </ownerInitialize>
+    <unitInitialize>
+
+ <!-- British Unit Placements -->
+      <unitPlacement unitType="infantry" territory="London" quantity="6" owner="British"/>
+      <unitPlacement unitType="artillery" territory="London" quantity="2" owner="British"/>
+      <unitPlacement unitType="armour" territory="London" quantity="1" owner="British"/>
+      <unitPlacement unitType="factory" territory="London" quantity="1" owner="British"/>
+      <unitPlacement unitType="aaGun" territory="London" quantity="1" owner="British"/>
+      <unitPlacement unitType="fighter" territory="London" quantity="1" owner="British"/>
+      <unitPlacement unitType="factory" territory="Wessex" quantity="1" owner="British"/>
+      <unitPlacement unitType="aaGun" territory="Wessex" quantity="1" owner="British"/>
+      <unitPlacement unitType="factory" territory="Plopp" quantity="1" owner="British"/>
+      <unitPlacement unitType="transport" territory="sz 20" quantity="1" owner="British"/> 
+     <unitPlacement unitType="aaGun" territory="Plopp" quantity="1" owner="British"/>
+      <unitPlacement unitType="transport" territory="sz 41" quantity="1" owner="British"/> 
+
+      <!-- Russian Unit Placements -->
+      <unitPlacement unitType="infantry" territory="Moscow" quantity="6" owner="Russians"/>
+      <unitPlacement unitType="artillery" territory="Moscow" quantity="2" owner="Russians"/>
+      <unitPlacement unitType="armour" territory="Moscow" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="factory" territory="Moscow" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="aaGun" territory="Moscow" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="fighter" territory="Moscow" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="factory" territory="South Russia" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="aaGun" territory="South Russia" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="factory" territory="Caspik" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="aaGun" territory="Caspik" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="transport" territory="sz 1" quantity="1" owner="Russians"/>
+      <unitPlacement unitType="transport" territory="sz 31" quantity="1" owner="Russians"/>
+
+      <unitPlacement unitType="factory" territory="Draince" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="aaGun" territory="Draince" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="infantry" territory="Draince" quantity="5" owner="Neutrals"/>
+      <unitPlacement unitType="armour" territory="Draince" quantity="2" owner="Neutrals"/>
+      <unitPlacement unitType="fighter" territory="Draince" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="infantry" territory="Sinai" quantity="5" owner="Neutrals"/>
+      <unitPlacement unitType="aaGun" territory="Sinai" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="infantry" territory="Suttax" quantity="5" owner="Neutrals"/>
+      <unitPlacement unitType="aaGun" territory="Suttax" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="infantry" territory="Dherka" quantity="5" owner="Neutrals"/>
+      <unitPlacement unitType="aaGun" territory="Dherka" quantity="1" owner="Neutrals"/>
+ 
+      <unitPlacement unitType="factory" territory="Vergen" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="aaGun" territory="Vergen" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="infantry" territory="Vergen" quantity="10" owner="Neutrals"/>
+      <unitPlacement unitType="armour" territory="Vergen" quantity="4" owner="Neutrals"/>
+      <unitPlacement unitType="fighter" territory="Vergen" quantity="3" owner="Neutrals"/>
+
+      <unitPlacement unitType="factory" territory="Philas" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="aaGun" territory="Philas" quantity="1" owner="Neutrals"/>
+      <unitPlacement unitType="infantry" territory="Philas" quantity="10" owner="Neutrals"/>
+      <unitPlacement unitType="armour" territory="Philas" quantity="4" owner="Neutrals"/>
+      <unitPlacement unitType="artillery" territory="Philas" quantity="4" owner="Neutrals"/>
+      <unitPlacement unitType="fighter" territory="Philas" quantity="3" owner="Neutrals"/>
+    </unitInitialize>
+    <resourceInitialize>
+      <resourceGiven player="Russians" resource="PUs" quantity="42"/>
+      <resourceGiven player="British" resource="PUs" quantity="42"/>
+    </resourceInitialize>
+  </initialize>
+  <propertyList>
+    
+    <!-- Other properties -->
+    <property name="Low Luck" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Low Luck for AntiAircraft" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Low Luck for Technology" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Low Luck for Bombing and Territory Damage" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Tech Development" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="LHTR Heavy Bombers" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="Heavy Bomber Dice Rolls" value="2" editable="false">
+      <number min="2" max="3"/>
+    </property>
+    <property name="Paratroopers Can Move During Non Combat" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="Paratroopers Can Attack Deep Into Enemy Territory" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="Always on AA" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="Kamikaze Airplanes" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Super Sub Defence Bonus" value="0" editable="true">
+      <number min="0" max="1"/>
+    </property>
+    <property name="Units Repair Hits End Turn" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Units Repair Hits Start Turn" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="WW2V3" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="WW2V3 Tech Model" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Selectable Tech Roll" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Use Shipyards" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="All Rockets Attack" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Rocket Attack Per Factory Restricted" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Rockets Can Fly Over Impassables" value="false" editable="false">
+      <boolean/>
+    </property>
+    <property name="Blitz Through Factories And AA Restricted" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Roll AA Individually" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Choose AA Casualties" value="true" editable="true">
+      <boolean/>
+    </property>
+    <property name="AA Territory Restricted" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Multiple AA Per Territory" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Partial Amphibious Retreat" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Attacker Retreat Planes" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Shore Bombard Per Ground Unit Restricted" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Naval Bombard Casualties Return Fire" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Hari-Kari Units" value="false" editable="false">
+      <boolean/>
+    </property>
+    <property name="Allied Air Dependents" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Surviving Air Move To Land" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Air Attack Sub Restricted" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Ignore Transport In Movement" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Transport Casualties Restricted" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Unescorted Transport Dies" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="Ignore Sub In Movement" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Defending Subs Sneak Attack" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Sub Retreat Before Battle" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Submersible Subs" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Sub Control Sea Zone Restricted" value="false" editable="false">
+      <boolean/>
+    </property>
+    <property name="Subs Can End NonCombat Move With Enemies" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Previous Units Fight" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Two hit battleship" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Produce fighters on carriers" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Produce new fighters on old carriers" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Move existing fighters to new carriers" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Land existing fighters on new carriers" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="LHTR Carrier production rules" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Unit Placement In Enemy Seas" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Territory Turn Limit" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="maxFactoriesPerTerritory" value="1" editable="true">
+      <number min="1" max="100"/>
+    </property>
+    <property name="Placement Restricted By Factory" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="Raids May Be Preceeded By Air Battles" value="false" editable="true">
+      <boolean/>
+    </property>
+    <property name="neutralCharge" value="9999999" editable="false">
+      <number min="0" max="9999999"/>
+    </property>
+    <property name="Neutrals Are Impassable" value="false" editable="false">
+      <boolean/>
+    </property>
+    <property name="Neutrals Are Blitzable" value="false" editable="false">
+      <boolean/>
+    </property>
+    <property name="Neutral Flyover Allowed" value="false" editable="false">
+      <boolean/>
+    </property>
+    <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
+      <boolean/>
+    </property>
+    <property name="mapName" value="apathbeyond" editable="false"/>
+    <property name="notes">
+      <value><![CDATA[
+					<b>A Path Beyond</b>
+					<br><b>playerList</b>
+    					<br><b>In turn order</b>
+    					<br><b>player name="Russians"</b> 
+    					<br><b>player name="British"</b> 
+					<br>
+					<br>Ghoast:Herfbert and Sinai:Townbergville are both canals.
+					<br>
+					<br><b>Generic How-To-Play:</b>
+					<br>The game is made up of rounds, during a round each player gets to do a number of steps/phases.
+					<br>The phases are, in order: Research Technology, Repair Factories and Purchase Units, Combat Movement, Resolve Battles, Non-Combat Movement, Place Units.
+					<br>At the beginning of your turn, you purchase units. At the end of the turn, you get to place those units in territories you own that have a factory.
+					<br>During Combat Movment, you move any units to attack enemy units and territories. During Non-Combat Movement, you may move any units that have movement left (attacking an enemy remove any movement of land and sea units, but not air units).
+					<br>Battles happen by use of dice. A unit has a certain attack power, and you roll a dice for each unit. If your dice is equal or less than the attack power of the unit, you have scored a hit.
+						So for example, a tank attacks on 3. For it, you will roll a single die, and if you score 1-3 on the die you have hit the enemy, while if you score 4-6 you have missed the enemy. An infantry defends on 2, so a roll of 1-2 is a hit, while 3-6 are misses.
+					<br>After the attacker has rolled dice for each of his units, the defender tallies the total number of 'hits' and then selects which of his defending units will die later. After this, the defender rolls for his units and the attacker selects which of his units will die.
+						When both have finished rolling, the units selected to die are removed from the game. If there are no more attackers left, then the defender has won, and if there are no more defenders left, then the attacker has won and he moves his remaining attacking units into that territory.
+						If both players have units left still, the attack may choose to play another round of battle, or retreat all his remaining forces to a territory where at least one of his forces came from.
+					<br>
+					<br><b>Optional Technologies:</b>
+					<br>*** Air/Naval Tech ***
+					<br>SUPER SUBS- submarine units get +1 attack
+					<br>JET POWER- fighters get +1 attack
+					<br>IMPROVED SHIPYARDS- naval units are cheaper
+					<br>AA RADAR- AA hit on 2 or less
+					<br>LONG RANGE AIRCRAFT- aircraft range increased by 1
+					<br>HEAVY BOMBER- roll 2 dice for each bomber, and selects the best one
+					<br>
+					<br>*** Land/Production Tech ***
+					<br>IMPROVED ARTILLERY SUPPORT- artillery support 2 infantry
+        			<br>ROCKETS- AA conduct rocket attacks for 1d6 damage to production (each factory may only be targetted once per turn by one rocket, and only 1 rocket in each territory may fire)
+					<br>PARATROOPERS- each bomber may carry 1 infantry into combat (must stop in first enemy territory it reaches)
+					<br>INCREASED FACTORY PRODUCTION- factories produce 2 additional units (if territory value is 3 or greater), repairs 1/2 price
+					<br>WAR BONDS- collect an 1d6 extra PUs each turn
+					<br>MECHANIZED INFANTRY- tanks may carry 1 infantry each for 2 spaces
+					<br>
+					<br>Created by island with units from Neuschwabenland by Sieg.
+		        	]]></value>
+    </property>
+  </propertyList>
+</game>

@@ -1,0 +1,538 @@
+<!-- Territory Connections -->
+<connection t1="Arifice" t2="Bimbledock"/>
+<connection t1="Arifice" t2="Slexual"/>
+<connection t1="Arifice" t2="Stankton"/>
+<connection t1="Arifice" t2="Twenkbert"/>
+<connection t1="Arkangsk" t2="Brezdzev"/>
+<connection t1="Arkangsk" t2="Chauff"/>
+<connection t1="Arkangsk" t2="Gadonk"/>
+<connection t1="Arkangsk" t2="Gordoba"/>
+<connection t1="Arkangsk" t2="Murmansk"/>
+<connection t1="Arkangsk" t2="Petrof"/>
+<connection t1="Arkangsk" t2="Ritnik"/>
+<connection t1="Barat" t2="Nevra"/>
+<connection t1="Barat" t2="Tesk"/>
+<connection t1="Barat" t2="Tran"/>
+<connection t1="Barat" t2="Yom"/>
+<connection t1="Barat" t2="sz 12"/>
+<connection t1="Bergen" t2="Centa"/>
+<connection t1="Bergen" t2="Eastra"/>
+<connection t1="Bergen" t2="sz 12"/>
+<connection t1="Bergen" t2="sz 13"/>
+<connection t1="Bergen" t2="sz 15"/>
+<connection t1="Bimbledock" t2="Stankton"/>
+<connection t1="Bimbledock" t2="Townbergville"/>
+<connection t1="Bimbledock" t2="Urkel"/>
+<connection t1="Bimbledock" t2="sz 37"/>
+<connection t1="Binche" t2="East Brompton"/>
+<connection t1="Binche" t2="Heldsville"/>
+<connection t1="Binche" t2="Northex"/>
+<connection t1="Binche" t2="sz 41"/>
+<connection t1="Biopolis" t2="Gherd"/>
+<connection t1="Biopolis" t2="Kharak"/>
+<connection t1="Biopolis" t2="Mutta"/>
+<connection t1="Biopolis" t2="Philas"/>
+<connection t1="Biopolis" t2="Therak"/>
+<connection t1="Biopolis" t2="Warch"/>
+<connection t1="Brananaville" t2="Krang"/>
+<connection t1="Brananaville" t2="Slexual"/>
+<connection t1="Brananaville" t2="sz 21"/>
+<connection t1="Brananaville" t2="sz 22"/>
+<connection t1="Brandge" t2="Charforte"/>
+<connection t1="Brandge" t2="Corsilo"/>
+<connection t1="Brandge" t2="Pawnt"/>
+<connection t1="Brandge" t2="Yain"/>
+<connection t1="Brandge" t2="sz 34"/>
+<connection t1="Braunker" t2="Charforte"/>
+<connection t1="Braunker" t2="Chauff"/>
+<connection t1="Braunker" t2="Pawnt"/>
+<connection t1="Braunker" t2="Platzberg"/>
+<connection t1="Braunker" t2="Ritnik"/>
+<connection t1="Brenha" t2="Dint"/>
+<connection t1="Brenha" t2="Tesk"/>
+<connection t1="Brenha" t2="sz 10"/>
+<connection t1="Brenha" t2="sz 11"/>
+<connection t1="Brenn" t2="Newfield"/>
+<connection t1="Brenn" t2="Oumik"/>
+<connection t1="Brenn" t2="Pomville"/>
+<connection t1="Brenn" t2="Prain"/>
+<connection t1="Brenn" t2="Vergen"/>
+<connection t1="Brenn" t2="sz 26"/>
+<connection t1="Brenn" t2="sz 27"/>
+<connection t1="Brenny" t2="Charforte"/>
+<connection t1="Brenny" t2="Chent"/>
+<connection t1="Brenny" t2="Platzberg"/>
+<connection t1="Brenny" t2="sz 28"/>
+<connection t1="Brezdzev" t2="Gordoba"/>
+<connection t1="Brezdzev" t2="South Russia"/>
+<connection t1="Brezdzev" t2="sz 30"/>
+<connection t1="Bummstead" t2="Chonkille"/>
+<connection t1="Bummstead" t2="Frakesville"/>
+<connection t1="Bummstead" t2="Slexual"/>
+<connection t1="Bummstead" t2="Tainte"/>
+<connection t1="Bummstead" t2="Trangle"/>
+<connection t1="Bummstead" t2="Urkel"/>
+<connection t1="Caspik" t2="Dubain"/>
+<connection t1="Caspik" t2="Ghoast"/>
+<connection t1="Caspik" t2="Gordoba"/>
+<connection t1="Caspik" t2="Ritnik"/>
+<connection t1="Caspik" t2="Ukraine"/>
+<connection t1="Caspik" t2="Uralsk"/>
+<connection t1="Caspik" t2="sz 31"/>
+<connection t1="Centa" t2="Eastra"/>
+<connection t1="Centa" t2="Larpp"/>
+<connection t1="Centa" t2="Nevra"/>
+<connection t1="Centa" t2="sz 13"/>
+<connection t1="Charforte" t2="Chent"/>
+<connection t1="Charforte" t2="Pawnt"/>
+<connection t1="Charforte" t2="Platzberg"/>
+<connection t1="Charforte" t2="Poliso"/>
+<connection t1="Charforte" t2="Yain"/>
+<connection t1="Chauff" t2="Gadonk"/>
+<connection t1="Chauff" t2="Platzberg"/>
+<connection t1="Chauff" t2="Ritnik"/>
+<connection t1="Chent" t2="Draince"/>
+<connection t1="Chent" t2="Harragh"/>
+<connection t1="Chent" t2="Poliso"/>
+<connection t1="Chent" t2="sz 28"/>
+<connection t1="Chesend" t2="Dbrak"/>
+<connection t1="Chesend" t2="Sraya"/>
+<connection t1="Chesend" t2="Yara"/>
+<connection t1="Chesend" t2="Zyanthos"/>
+<connection t1="Chesend" t2="sz 33"/>
+<connection t1="Chonkille" t2="Krang"/>
+<connection t1="Chonkille" t2="Octagone"/>
+<connection t1="Chonkille" t2="Slexual"/>
+<connection t1="Chonkille" t2="Tainte"/>
+<connection t1="Chonkille" t2="sz 23"/>
+<connection t1="Chunnel Stack" t2="Flatsville"/>
+<connection t1="Chunnel Stack" t2="Harbor Downs"/>
+<connection t1="Chunnel Stack" t2="Pickleton"/>
+<connection t1="Chunnel Stack" t2="Pomville"/>
+<connection t1="Chunnel Stack" t2="Tainte"/>
+<connection t1="Chunnel Stack" t2="Trenton"/>
+<connection t1="Clitopolis" t2="Horn"/>
+<connection t1="Clitopolis" t2="Inda"/>
+<connection t1="Clitopolis" t2="Waifu"/>
+<connection t1="Clitopolis" t2="sz 9"/>
+<connection t1="Clitopolis" t2="sz 10"/>
+<connection t1="Corsilo" t2="Yain"/>
+<connection t1="Corsilo" t2="sz 34"/>
+<connection t1="Corsilo" t2="sz 36"/>
+<connection t1="Dbrak" t2="Sinai"/>
+<connection t1="Dbrak" t2="Sraya"/>
+<connection t1="Dbrak" t2="Yara"/>
+<connection t1="Dbrak" t2="sz 38"/>
+<connection t1="Densig" t2="Mikkra"/>
+<connection t1="Densig" t2="Mutta"/>
+<connection t1="Densig" t2="Useer"/>
+<connection t1="Densig" t2="sz 32"/>
+<connection t1="Derrick" t2="Harragh"/>
+<connection t1="Derrick" t2="Oumik"/>
+<connection t1="Derrick" t2="sz 27"/>
+<connection t1="Derrick" t2="sz 28"/>
+<connection t1="Derry" t2="East Brompton"/>
+<connection t1="Derry" t2="Essex"/>
+<connection t1="Derry" t2="Glornigh"/>
+<connection t1="Derry" t2="Kent"/>
+<connection t1="Derry" t2="Manchester"/>
+<connection t1="Derry" t2="Suffolk"/>
+<connection t1="Dherka" t2="Domita"/>
+<connection t1="Dherka" t2="Ferg"/>
+<connection t1="Dherka" t2="Kharak"/>
+<connection t1="Dherka" t2="Renga"/>
+<connection t1="Dherka" t2="sz 11"/>
+<connection t1="Dint" t2="Tesk"/>
+<connection t1="Dint" t2="sz 10"/>
+<connection t1="Dint" t2="sz 12"/>
+<connection t1="Domita" t2="Kharak"/>
+<connection t1="Domita" t2="Marksberg"/>
+<connection t1="Domita" t2="Slavbert"/>
+<connection t1="Donger" t2="Odessa"/>
+<connection t1="Donger" t2="Szymy"/>
+<connection t1="Donger" t2="sz 3"/>
+<connection t1="Donger" t2="sz 4"/>
+<connection t1="Donger" t2="sz 5"/>
+<connection t1="Draince" t2="Harbor Downs"/>
+<connection t1="Draince" t2="Harragh"/>
+<connection t1="Draince" t2="Pickleton"/>
+<connection t1="Draince" t2="Poliso"/>
+<connection t1="Draince" t2="sz 36"/>
+<connection t1="Dubain" t2="Frokbert"/>
+<connection t1="Dubain" t2="Ghren"/>
+<connection t1="Dubain" t2="Uralsk"/>
+<connection t1="Dubain" t2="sz 31"/>
+<connection t1="East Brompton" t2="Glornigh"/>
+<connection t1="East Brompton" t2="Kent"/>
+<connection t1="East Brompton" t2="London"/>
+<connection t1="East Brompton" t2="Northex"/>
+<connection t1="East Brompton" t2="Plopp"/>
+<connection t1="East Russia" t2="Moscow"/>
+<connection t1="East Russia" t2="North Russia"/>
+<connection t1="East Russia" t2="South Russia"/>
+<connection t1="East Russia" t2="Szymy"/>
+<connection t1="East Russia" t2="Ukraine"/>
+<connection t1="East Russia" t2="Uralsk"/>
+<connection t1="Eastern Elderbutte" t2="Glornigh"/>
+<connection t1="Eastern Elderbutte" t2="Manchester"/>
+<connection t1="Eastern Elderbutte" t2="Narne"/>
+<connection t1="Eastern Elderbutte" t2="Southumberland"/>
+<connection t1="Eastern Elderbutte" t2="sz 14"/>
+<connection t1="Eastern Elderbutte" t2="sz 16"/>
+<connection t1="Eastra" t2="Nevra"/>
+<connection t1="Eastra" t2="sz 12"/>
+<connection t1="Essex" t2="Manchester"/>
+<connection t1="Essex" t2="sz 19"/>
+<connection t1="Essex" t2="sz 20"/>
+<connection t1="Everd" t2="Gothia"/>
+<connection t1="Everd" t2="Jain"/>
+<connection t1="Everd" t2="Theod"/>
+<connection t1="Ferg" t2="Jain"/>
+<connection t1="Ferg" t2="Renga"/>
+<connection t1="Ferg" t2="Theod"/>
+<connection t1="Ferg" t2="Werke"/>
+<connection t1="Ferg" t2="sz 11"/>
+<connection t1="Feul" t2="Bimbledock"/>
+<connection t1="Feul" t2="Heldsville"/>
+<connection t1="Feul" t2="Redditon"/>
+<connection t1="Feul" t2="Stankton"/>
+<connection t1="Feul" t2="Townbergville"/>
+<connection t1="Flatsville" t2="Octagone"/>
+<connection t1="Flatsville" t2="Oklahoma"/>
+<connection t1="Flatsville" t2="Pomville"/>
+<connection t1="Flatsville" t2="Puzkel"/>
+<connection t1="Flatsville" t2="Tainte"/>
+<connection t1="Frakesville" t2="Tainte"/>
+<connection t1="Frakesville" t2="Trenton"/>
+<connection t1="Frakesville" t2="Urkel"/>
+<connection t1="Frakesville" t2="sz 36"/>
+<connection t1="Freepton" t2="Grao"/>
+<connection t1="Freepton" t2="Marksberg"/>
+<connection t1="Freepton" t2="Rakker"/>
+<connection t1="Freepton" t2="Slavbert"/>
+<connection t1="Freepton" t2="sz 7"/>
+<connection t1="Freepton" t2="sz 8"/>
+<connection t1="Fremme" t2="Herfbert"/>
+<connection t1="Fremme" t2="Suttax"/>
+<connection t1="Fremme" t2="sz 31"/>
+<connection t1="Fremme" t2="sz 33"/>
+<connection t1="Frokbert" t2="Ghren"/>
+<connection t1="Frokbert" t2="Noep"/>
+<connection t1="Frokbert" t2="Szymy"/>
+<connection t1="Frokbert" t2="Uralsk"/>
+<connection t1="Frokbert" t2="sz 5"/>
+<connection t1="Gadonk" t2="Mekt"/>
+<connection t1="Gadonk" t2="Murmansk"/>
+<connection t1="Gadonk" t2="Platzberg"/>
+<connection t1="Gadonk" t2="sz 29"/>
+<connection t1="Gherd" t2="Mutta"/>
+<connection t1="Gherd" t2="Renga"/>
+<connection t1="Ghoast" t2="Pawnt"/>
+<connection t1="Ghoast" t2="Ritnik"/>
+<connection t1="Ghoast" t2="sz 31"/>
+<connection t1="Ghoast" t2="sz 34"/>
+<connection t1="Ghren" t2="Mikkra"/>
+<connection t1="Ghren" t2="Noep"/>
+<connection t1="Ghren" t2="sz 31"/>
+<connection t1="Glornigh" t2="Manchester"/>
+<connection t1="Glornigh" t2="Narne"/>
+<connection t1="Gopnik" t2="Moscow"/>
+<connection t1="Gopnik" t2="South Russia"/>
+<connection t1="Gopnik" t2="West Russia"/>
+<connection t1="Gopnik" t2="sz 1"/>
+<connection t1="Gopnik" t2="sz 30"/>
+<connection t1="Gordoba" t2="Ritnik"/>
+<connection t1="Gordoba" t2="Ukraine"/>
+<connection t1="Gothia" t2="Larpp"/>
+<connection t1="Gothia" t2="Nevra"/>
+<connection t1="Gothia" t2="Schindel"/>
+<connection t1="Gothia" t2="Yom"/>
+<connection t1="Gothia" t2="sz 40"/>
+<connection t1="Grao" t2="Inda"/>
+<connection t1="Grao" t2="Marksberg"/>
+<connection t1="Grao" t2="sz 8"/>
+<connection t1="Grodnik" t2="East Russia"/>
+<connection t1="Grodnik" t2="Jawn"/>
+<connection t1="Grodnik" t2="North Russia"/>
+<connection t1="Grodnik" t2="Odessa"/>
+<connection t1="Grodnik" t2="Szymy"/>
+<connection t1="Harbor Downs" t2="Pickleton"/>
+<connection t1="Harbor Downs" t2="Trenton"/>
+<connection t1="Harbor Downs" t2="sz 36"/>
+<connection t1="Harragh" t2="Oumik"/>
+<connection t1="Harragh" t2="Prain"/>
+<connection t1="Harragh" t2="sz 28"/>
+<connection t1="Heldsville" t2="Northex"/>
+<connection t1="Heldsville" t2="Redditon"/>
+<connection t1="Heldsville" t2="sz 39"/>
+<connection t1="Heldsville" t2="sz 41"/>
+<connection t1="Herfbert" t2="Suttax"/>
+<connection t1="Herfbert" t2="sz 31"/>
+<connection t1="Herfbert" t2="sz 34"/>
+<connection t1="Horn" t2="Waifu"/>
+<connection t1="Horn" t2="sz 9"/>
+<connection t1="Inda" t2="Marksberg"/>
+<connection t1="Inda" t2="Waifu"/>
+<connection t1="Inda" t2="sz 10"/>
+<connection t1="Inda" t2="sz 11"/>
+<connection t1="Jain" t2="Theod"/>
+<connection t1="Jain" t2="Tran"/>
+<connection t1="Jain" t2="sz 11"/>
+<connection t1="Jankum" t2="Newfield"/>
+<connection t1="Jankum" t2="Portochang"/>
+<connection t1="Jankum" t2="Puzkel"/>
+<connection t1="Jankum" t2="Spergbert"/>
+<connection t1="Jankum" t2="sz 25"/>
+<connection t1="Jawn" t2="North Russia"/>
+<connection t1="Jawn" t2="Odessa"/>
+<connection t1="Jawn" t2="Treltz"/>
+<connection t1="Jawn" t2="sz 2"/>
+<connection t1="Jawn" t2="sz 3"/>
+<connection t1="Judic" t2="Sinai"/>
+<connection t1="Judic" t2="Sraya"/>
+<connection t1="Judic" t2="sz 33"/>
+<connection t1="Judic" t2="sz 35"/>
+<connection t1="Kent" t2="Northex"/>
+<connection t1="Kent" t2="Stankton"/>
+<connection t1="Kent" t2="Suffolk"/>
+<connection t1="Kent" t2="Wessex"/>
+<connection t1="Kernar" t2="Treltz"/>
+<connection t1="Kernar" t2="West Russia"/>
+<connection t1="Kernar" t2="sz 1"/>
+<connection t1="Kharak" t2="Gherd"/>
+<connection t1="Kharak" t2="Philas"/>
+<connection t1="Kharak" t2="Renga"/>
+<connection t1="Kharak" t2="Slavbert"/>
+<connection t1="Krang" t2="Ponin"/>
+<connection t1="Krang" t2="Slexual"/>
+<connection t1="Krang" t2="Tertle"/>
+<connection t1="Krang" t2="sz 23"/>
+<connection t1="Larpp" t2="Nevra"/>
+<connection t1="Larpp" t2="Schindel"/>
+<connection t1="Larpp" t2="sz 13"/>
+<connection t1="London" t2="Kent"/>
+<connection t1="London" t2="Northex"/>
+<connection t1="Manchester" t2="Southumberland"/>
+<connection t1="Manchester" t2="Tippe"/>
+<connection t1="Marksberg" t2="Slavbert"/>
+<connection t1="Marksberg" t2="sz 11"/>
+<connection t1="Mekt" t2="Platzberg"/>
+<connection t1="Mekt" t2="sz 29"/>
+<connection t1="Mikkra" t2="Noep"/>
+<connection t1="Mikkra" t2="Useer"/>
+<connection t1="Mikkra" t2="sz 31"/>
+<connection t1="Mikkra" t2="sz 32"/>
+<connection t1="Moscow" t2="North Russia"/>
+<connection t1="Moscow" t2="South Russia"/>
+<connection t1="Moscow" t2="West Russia"/>
+<connection t1="Murmansk" t2="sz 29"/>
+<connection t1="Murmansk" t2="sz 30"/>
+<connection t1="Mutta" t2="Therak"/>
+<connection t1="Mutta" t2="Useer"/>
+<connection t1="Mutta" t2="sz 32"/>
+<connection t1="Narne" t2="Plopp"/>
+<connection t1="Narne" t2="Schindel"/>
+<connection t1="Narne" t2="sz 14"/>
+<connection t1="Narne" t2="sz 41"/>
+<connection t1="Nevra" t2="Yom"/>
+<connection t1="Nevra" t2="sz 12"/>
+<connection t1="Newfield" t2="Puzkel"/>
+<connection t1="Noep" t2="Useer"/>
+<connection t1="Noep" t2="sz 5"/>
+<connection t1="North Russia" t2="Treltz"/>
+<connection t1="North Russia" t2="West Russia"/>
+<connection t1="Northex" t2="Feul"/>
+<connection t1="Northex" t2="Stankton"/>
+<connection t1="Octagone" t2="Oklahoma"/>
+<connection t1="Octagone" t2="Tainte"/>
+<connection t1="Octagone" t2="sz 23"/>
+<connection t1="Odessa" t2="Szymy"/>
+<connection t1="Odessa" t2="sz 3"/>
+<connection t1="Oklahoma" t2="Portochang"/>
+<connection t1="Oklahoma" t2="Puzkel"/>
+<connection t1="Oklahoma" t2="Slenk"/>
+<connection t1="Oklahoma" t2="sz 23"/>
+<connection t1="Oumik" t2="Prain"/>
+<connection t1="Oumik" t2="sz 27"/>
+<connection t1="Pawnt" t2="Ritnik"/>
+<connection t1="Pawnt" t2="sz 34"/>
+<connection t1="Petrof" t2="Brezdzev"/>
+<connection t1="Petrof" t2="Murmansk"/>
+<connection t1="Petrof" t2="sz 30"/>
+<connection t1="Philas" t2="Rakker"/>
+<connection t1="Philas" t2="Slavbert"/>
+<connection t1="Philas" t2="Warch"/>
+<connection t1="Pickleton" t2="Pomville"/>
+<connection t1="Pickleton" t2="Prain"/>
+<connection t1="Platzberg" t2="Spiegel"/>
+<connection t1="Platzberg" t2="sz 28"/>
+<connection t1="Plopp" t2="Binche"/>
+<connection t1="Plopp" t2="Glornigh"/>
+<connection t1="Plopp" t2="sz 41"/>
+<connection t1="Poliso" t2="Yain"/>
+<connection t1="Poliso" t2="sz 36"/>
+<connection t1="Pomville" t2="Newfield"/>
+<connection t1="Pomville" t2="Puzkel"/>
+<connection t1="Pomville" t2="Vergen"/>
+<connection t1="Ponin" t2="Brananaville"/>
+<connection t1="Ponin" t2="Tertle"/>
+<connection t1="Portochang" t2="Puzkel"/>
+<connection t1="Portochang" t2="Slenk"/>
+<connection t1="Portochang" t2="Spergbert"/>
+<connection t1="Portochang" t2="sz 24"/>
+<connection t1="Prain" t2="Draince"/>
+<connection t1="Prain" t2="Vergen"/>
+<connection t1="Rakker" t2="Slavbert"/>
+<connection t1="Rakker" t2="Warch"/>
+<connection t1="Rakker" t2="sz 7"/>
+<connection t1="Redditon" t2="Townbergville"/>
+<connection t1="Redditon" t2="sz 38"/>
+<connection t1="Redditon" t2="sz 39"/>
+<connection t1="Renga" t2="Tzeba"/>
+<connection t1="Sinai" t2="Sraya"/>
+<connection t1="Sinai" t2="sz 35"/>
+<connection t1="Sinai" t2="sz 37"/>
+<connection t1="Sinai" t2="sz 38"/>
+<connection t1="Slenk" t2="sz 23"/>
+<connection t1="Slenk" t2="sz 24"/>
+<connection t1="Slexual" t2="Trangle"/>
+<connection t1="Slexual" t2="Twenkbert"/>
+<connection t1="South Russia" t2="Ukraine"/>
+<connection t1="South Russia" t2="sz 30"/>
+<connection t1="Southumberland" t2="Tippe"/>
+<connection t1="Southumberland" t2="Tippton"/>
+<connection t1="Southumberland" t2="sz 16"/>
+<connection t1="Southumberland" t2="sz 18"/>
+<connection t1="Southumberland" t2="sz 19"/>
+<connection t1="Spergbert" t2="sz 24"/>
+<connection t1="Spergbert" t2="sz 25"/>
+<connection t1="Spiegel" t2="Mekt"/>
+<connection t1="Spiegel" t2="sz 28"/>
+<connection t1="Spiegel" t2="sz 29"/>
+<connection t1="Sraya" t2="sz 33"/>
+<connection t1="Stankton" t2="Twenkbert"/>
+<connection t1="Stankton" t2="Wessex"/>
+<connection t1="Stankton" t2="sz 21"/>
+<connection t1="Suffolk" t2="Essex"/>
+<connection t1="Suffolk" t2="Wessex"/>
+<connection t1="Suffolk" t2="sz 20"/>
+<connection t1="Suttax" t2="sz 33"/>
+<connection t1="Suttax" t2="sz 34"/>
+<connection t1="Suttax" t2="sz 35"/>
+<connection t1="Szymy" t2="Uralsk"/>
+<connection t1="Szymy" t2="sz 5"/>
+<connection t1="Tainte" t2="Trenton"/>
+<connection t1="Tertle" t2="sz 22"/>
+<connection t1="Tertle" t2="sz 23"/>
+<connection t1="Tesk" t2="Tran"/>
+<connection t1="Tesk" t2="sz 11"/>
+<connection t1="Tesk" t2="sz 12"/>
+<connection t1="Theod" t2="Werke"/>
+<connection t1="Theod" t2="Yara"/>
+<connection t1="Theod" t2="sz 39"/>
+<connection t1="Theod" t2="sz 40"/>
+<connection t1="Therak" t2="Useer"/>
+<connection t1="Therak" t2="Warch"/>
+<connection t1="Therak" t2="sz 6"/>
+<connection t1="Tippe" t2="Essex"/>
+<connection t1="Tippe" t2="sz 19"/>
+<connection t1="Tippton" t2="sz 16"/>
+<connection t1="Tippton" t2="sz 17"/>
+<connection t1="Tippton" t2="sz 18"/>
+<connection t1="Townbergville" t2="sz 37"/>
+<connection t1="Townbergville" t2="sz 38"/>
+<connection t1="Tran" t2="Yom"/>
+<connection t1="Tran" t2="sz 11"/>
+<connection t1="Trangle" t2="Arifice"/>
+<connection t1="Trangle" t2="Bimbledock"/>
+<connection t1="Treltz" t2="West Russia"/>
+<connection t1="Treltz" t2="sz 1"/>
+<connection t1="Treltz" t2="sz 2"/>
+<connection t1="Trenton" t2="sz 36"/>
+<connection t1="Twenkbert" t2="Brananaville"/>
+<connection t1="Twenkbert" t2="sz 21"/>
+<connection t1="Tzeba" t2="Gherd"/>
+<connection t1="Tzeba" t2="Werke"/>
+<connection t1="Tzeba" t2="Zyanthos"/>
+<connection t1="Tzeba" t2="sz 32"/>
+<connection t1="Tzeba" t2="sz 33"/>
+<connection t1="Ukraine" t2="Brezdzev"/>
+<connection t1="Ukraine" t2="Uralsk"/>
+<connection t1="Urkel" t2="Trangle"/>
+<connection t1="Urkel" t2="sz 36"/>
+<connection t1="Urkel" t2="sz 37"/>
+<connection t1="Useer" t2="sz 5"/>
+<connection t1="Useer" t2="sz 6"/>
+<connection t1="Vergen" t2="Pickleton"/>
+<connection t1="Waifu" t2="Grao"/>
+<connection t1="Waifu" t2="sz 8"/>
+<connection t1="Waifu" t2="sz 9"/>
+<connection t1="Warch" t2="sz 6"/>
+<connection t1="Warch" t2="sz 7"/>
+<connection t1="Werke" t2="Renga"/>
+<connection t1="Werke" t2="Yara"/>
+<connection t1="Werke" t2="Zyanthos"/>
+<connection t1="Wessex" t2="sz 20"/>
+<connection t1="Wessex" t2="sz 21"/>
+<connection t1="West Russia" t2="sz 1"/>
+<connection t1="Yain" t2="sz 36"/>
+<connection t1="Yara" t2="Zyanthos"/>
+<connection t1="Yara" t2="sz 39"/>
+<connection t1="Yom" t2="Everd"/>
+<connection t1="Yom" t2="Jain"/>
+<connection t1="Zyanthos" t2="sz 33"/>
+<connection t1="sz 1" t2="sz 2"/>
+<connection t1="sz 1" t2="sz 30"/>
+<connection t1="sz 2" t2="sz 3"/>
+<connection t1="sz 3" t2="sz 4"/>
+<connection t1="sz 4" t2="sz 5"/>
+<connection t1="sz 4" t2="sz 6"/>
+<connection t1="sz 5" t2="sz 6"/>
+<connection t1="sz 6" t2="sz 7"/>
+<connection t1="sz 7" t2="sz 8"/>
+<connection t1="sz 8" t2="sz 9"/>
+<connection t1="sz 9" t2="sz 10"/>
+<connection t1="sz 10" t2="sz 11"/>
+<connection t1="sz 10" t2="sz 12"/>
+<connection t1="sz 11" t2="Domita"/>
+<connection t1="sz 12" t2="sz 15"/>
+<connection t1="sz 13" t2="Schindel"/>
+<connection t1="sz 13" t2="sz 14"/>
+<connection t1="sz 13" t2="sz 15"/>
+<connection t1="sz 14" t2="Schindel"/>
+<connection t1="sz 14" t2="sz 15"/>
+<connection t1="sz 14" t2="sz 16"/>
+<connection t1="sz 14" t2="sz 17"/>
+<connection t1="sz 15" t2="sz 17"/>
+<connection t1="sz 16" t2="sz 17"/>
+<connection t1="sz 17" t2="sz 18"/>
+<connection t1="sz 18" t2="sz 19"/>
+<connection t1="sz 19" t2="sz 20"/>
+<connection t1="sz 20" t2="sz 21"/>
+<connection t1="sz 21" t2="sz 22"/>
+<connection t1="sz 22" t2="Ponin"/>
+<connection t1="sz 22" t2="sz 23"/>
+<connection t1="sz 23" t2="sz 24"/>
+<connection t1="sz 24" t2="sz 25"/>
+<connection t1="sz 25" t2="sz 26"/>
+<connection t1="sz 26" t2="Jankum"/>
+<connection t1="sz 26" t2="Newfield"/>
+<connection t1="sz 26" t2="sz 27"/>
+<connection t1="sz 27" t2="sz 28"/>
+<connection t1="sz 28" t2="sz 29"/>
+<connection t1="sz 29" t2="sz 30"/>
+<connection t1="sz 31" t2="sz 32"/>
+<connection t1="sz 31" t2="sz 33"/>
+<connection t1="sz 32" t2="Gherd"/>
+<connection t1="sz 32" t2="sz 33"/>
+<connection t1="sz 33" t2="sz 35"/>
+<connection t1="sz 34" t2="sz 35"/>
+<connection t1="sz 34" t2="sz 36"/>
+<connection t1="sz 35" t2="sz 37"/>
+<connection t1="sz 36" t2="sz 37"/>
+<connection t1="sz 38" t2="sz 39"/>
+<connection t1="sz 39" t2="sz 40"/>
+<connection t1="sz 39" t2="sz 41"/>
+<connection t1="sz 40" t2="Everd"/>
+<connection t1="sz 40" t2="sz 41"/>
+<connection t1="sz 41" t2="Schindel"/>
